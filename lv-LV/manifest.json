@@ -1,0 +1,769 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/1/s/lv-LV",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/gift_card_management/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/gift_card_management/faq.html",
+          "hash": "LcQqzAnkNMAF+BqvK9zeq6ipG29QggGWJrqou67my+U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/gift_card_management/gift_card_management.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/gift_card_management/gift_card_management.html",
+          "hash": "iiPKqF7dYbJHBLxfpVqGzs9U1srKcFBR81JYaQD09wA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/gift_card_management/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/gift_card_management/overview.html",
+          "hash": "lLqq45SQyHLQunpGw0AQvuJhSD1tBCQK+HdcSZTFcD4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/gift_card_management/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/gift_card_management/toc.html",
+          "hash": "wnt3igkkzf+eAmJnFELA6hxaAFyzgR3gDzhx/wnBIE0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/gift_card_management/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/gift_card_management/usage_scenarios.html",
+          "hash": "HAciyP+RtqL/eqc+o1n2NtTMH5zq+XxiU6J+s5ekPsM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/item_managment/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item_managment/faq.html",
+          "hash": "W48wBG+wmJ9bZ5XMaNu9XKT5osz/KzNl1rX3HIVmZm4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/item_managment/gift_item_managment.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item_managment/gift_item_managment.html",
+          "hash": "iNYhwg1FnxhLSanIiCohQ9hlLEddVKXrAReaHTfPYPc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/item_managment/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item_managment/overview.html",
+          "hash": "AtcGxmjahL2hlchWMusu5HToc7LtmqjIsxOGQb06+uw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "articles/item_managment/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item_managment/toc.html",
+          "hash": "Z91sD4vVtOLy139ZJn7h/9bq+2lay+YUXY7Jqc6wNIg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/item_managment/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/item_managment/usage_scenarios.html",
+          "hash": "H2jWrZ6GB8JP9+Rm/OGoV0ok6X4fYYs2sPA1Sdv2cDY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/label_printing/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/label_printing/faq.html",
+          "hash": "BQP8l6LbwvLqK1IbT1VQFFY4LcTpeaCjAE3yt/2O/Mc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/label_printing/gift_label_printing.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/label_printing/gift_label_printing.html",
+          "hash": "PNS4ILD3EfOkptFMj7zo3CbKvoC95JCsM2lE+zQNQ5M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/label_printing/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/label_printing/overview.html",
+          "hash": "Qa2ZPx0Z1/1h4+UDbaiirI8UMDwpfdz2YAkGAugiFnU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "articles/label_printing/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/label_printing/toc.html",
+          "hash": "fZ1hHt6eXTXv7t2URIOqwwDz121y1LVt2GszTV6gE/c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/label_printing/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/label_printing/usage_scenarios.html",
+          "hash": "JavhdCdYcxwvUgapNio5EHY8+ien7fbepJBJpJobgNc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/loyalty_managment/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/loyalty_managment/faq.html",
+          "hash": "NxUqUK/A5IZf5O4ZHWZ6OwrANcVcm1f3H9gc+pKbiSM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/loyalty_managment/loyalty_managment.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/loyalty_managment/loyalty_managment.html",
+          "hash": "UEP85m4ujZ4Yt7Rb9mnQObdeRcUIYkT1IvM8fqx7nhY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/loyalty_managment/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/loyalty_managment/overview.html",
+          "hash": "1Lp/ATI2YpVVYiBk9gB/EAfpXcPpdB/tjTEixFM5UgE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/loyalty_managment/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/loyalty_managment/toc.html",
+          "hash": "QZoVXWu82ymClsK9+ebp68VoIwX6Tz7EUNDIWCKnpBM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/loyalty_managment/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/loyalty_managment/usage_scenarios.html",
+          "hash": "6gpIf5Kae5bvBpBtWeVXPnhf8cB64hyiaU09pCl1wk8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pos/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pos/faq.html",
+          "hash": "T4js6yl9SoklPi6D6BwwYM42wPCkzF5Br2+u58RSXo4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pos/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pos/overview.html",
+          "hash": "4pXQ/ivUxnQ03afkefVJPjVF5PurGtAAy31ChScsk7E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pos/pos.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pos/pos.html",
+          "hash": "vX87umSMXeT4zJ9XODPtdfTwj5LNXTGxPfwW7S2XDHI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/pos/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pos/toc.html",
+          "hash": "uK6hO9kQoa+OF/1iBNIegM5i4+gph+L9cXvN/J1nxUw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pos/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pos/usage_scenarios.html",
+          "hash": "qXHThfpmTR+pacqUZX7QIcZvfBEVtRZtbyrs1rA0Od8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/poslink/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/poslink/faq.html",
+          "hash": "5p7d0TfkUBFHfYYpdgk2LvpWeLmvB3l1cYLWSC7V5+8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/poslink/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/poslink/overview.html",
+          "hash": "wrZp8WYaFS41HReHYekWYXbXEl9VsbBSIg/ZXBY3LOc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/poslink/poslink.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/poslink/poslink.html",
+          "hash": "nxXghKFr9f/tDzbwCQGkAMJCoT6LRCEE4hV2FZsR5N8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/poslink/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/poslink/toc.html",
+          "hash": "qIiU+250LrTxwjpTZM+I1GcDb5cbKySaehiyVe9j4h4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/poslink/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/poslink/usage_scenarios.html",
+          "hash": "3H6YoJxRLyoMhsmwo4RjKPZa+/jdy82ZSUeDMVFzJGk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "include-not-found"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/pricing_managment/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pricing_managment/faq.html",
+          "hash": "vbJpq2u4ALsWGSXEtpDcsTkBnDfpFtdC59wmkexMSdQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pricing_managment/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pricing_managment/overview.html",
+          "hash": "uGi/JvwITWp5lsywuW9CBodVnAq0RsMB1XjOcz8cEcM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pricing_managment/pricing_managment.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pricing_managment/pricing_managment.html",
+          "hash": "xpUF2CSkVR6hYiYVjJfYQAu+dVMV1cSpUkh915DCumM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/pricing_managment/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pricing_managment/toc.html",
+          "hash": "6wMc8luVbI4SAADiBFQFaGdYCVA8Y048JnnKs3ZeSXY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pricing_managment/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pricing_managment/usage_scenarios.html",
+          "hash": "siL9okuiZ1u5HbGqwka9gIQeKmOXxYZHvbjAxAutqSw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/scale/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/scale/faq.html",
+          "hash": "vSyC1O4c/gQuoo/WI+NjqJ4SeK5jcFOd1erTlO9MpPY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/scale/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/scale/overview.html",
+          "hash": "KEEQg21cV2wbUzHAQa84BmNHNN7521nMg9x5GYQ4lQQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/scale/scale.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/scale/scale.html",
+          "hash": "K816yixQaofy/cpRRI5h019u/G7j5hcc+vizj6lJ1FE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/scale/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/scale/toc.html",
+          "hash": "18/6Z7mgexbprl8zbD61RVZlGxLck+eHuNyW4BvM6x4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/scale/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/scale/usage_scenarios.html",
+          "hash": "AUNizD0memIwIc9Gy8CApTAaoyvo4jZTp0r/lljotgs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/scheduler/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/scheduler/faq.html",
+          "hash": "C2pLueIc8kOXCQEYuN3/9o2FH/OQVw1ckJP5wziKh4s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/scheduler/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/scheduler/overview.html",
+          "hash": "KU97dGJ2+wnI+OfJFRjljRQcT4TSupUk7Gp6iBlmoSM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/scheduler/scheduler.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/scheduler/scheduler.html",
+          "hash": "0NjKfvYtEAEGVWAOX3vAn3W9c5uUuNN5mC5O2+RdM6Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/scheduler/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/scheduler/toc.html",
+          "hash": "fASls4kosX/XMzVWA6Ricpjw/RVWNGh1m0cga5m6iEs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/scheduler/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/scheduler/usage_scenarios.html",
+          "hash": "WRKUWyI7nyzViwr6OpExmuAWnaBM5Ca35bVcObgGhEc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/store_managment/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/store_managment/faq.html",
+          "hash": "iopUUZvcURvbSogUr8PSz5W31qMOad/0GmP1K3hqxAk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/store_managment/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/store_managment/overview.html",
+          "hash": "GbLPhhX0Y0e3Y2AlggeYxwAsLrGEBDo5couRnad6i9o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/store_managment/store_managment.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/store_managment/store_managment.html",
+          "hash": "vfaXYwMptfamDY+s+h479NHAAOU2EgtgyW8lG6xFvAo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/store_managment/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/store_managment/toc.html",
+          "hash": "ufA0BKnp9G1VxF2vCD7RCAXgOJIIwmGdIEikzPtq3TE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/store_managment/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/store_managment/usage_scenarios.html",
+          "hash": "hnY7Hp1mEw5LdHTCOMCDlGgL29xBpbc1gUG6TiLxfkI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/support/customer_terms.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/support/customer_terms.html",
+          "hash": "hRSI2APGW1SdTXT7lNl0tRqGDOgCw4YntCkyZ0Ju/+U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/support/privacy_statement.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/support/privacy_statement.html",
+          "hash": "7zWHStBXLwjZy2SPXkKWamFvykIIM0caZiM22eYXL1s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/support/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/support/toc.html",
+          "hash": "sEzgTcl1bMwt0j8oTVccEzOQTj2L4A9iY0xBg3naa2k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/elva_logo.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/elva_logo.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/elva_logo_big.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/elva_logo_big.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "iOdGgLx6OtMOyNK8UrIUame/ynvAxA7maPdhvpcPpLU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "readme.html",
+          "hash": "qv5yblFqtAOo1c/vA8wnxPvs5egAyn2/y30VVxLQQNE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "A8nkI7jITKQHkWqd9h3L85SytOZ+vDly/dyNu9m/NOE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 44,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
