@@ -12,7 +12,7 @@
   "articles/gift_card_management/overview.html": {
     "href": "articles/gift_card_management/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview ELVA POSLink Gift Card Management is a business software solution developed by ELVA. ELVA POSLink Gift Card Management is fully integrated with ELVA by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview ELVA POSLink Gift Card Management is a business software solution developed by ELVA. ELVA POSLink Gift Card Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/gift_card_management/usage_scenarios.html": {
     "href": "articles/gift_card_management/usage_scenarios.html",
@@ -32,7 +32,7 @@
   "articles/item_managment/overview.html": {
     "href": "articles/item_managment/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview ELVA POSLink Item Management is a business software solution developed by ELVA. ELVA POSLink Item Management is fully integrated with ELVA by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview ELVA POSLink Item Management is a business software solution developed by ELVA. ELVA POSLink Item Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/item_managment/usage_scenarios.html": {
     "href": "articles/item_managment/usage_scenarios.html",
@@ -52,7 +52,7 @@
   "articles/label_printing/overview.html": {
     "href": "articles/label_printing/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview ELVA POSLink Label Printing is a business software solution developed by ELVA. ELVA POSLink Label Printing is fully integrated with ELVA by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview ELVA POSLink Label Printing is a business software solution developed by ELVA. ELVA POSLink Label Printing is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/label_printing/usage_scenarios.html": {
     "href": "articles/label_printing/usage_scenarios.html",
@@ -72,7 +72,7 @@
   "articles/loyalty_managment/overview.html": {
     "href": "articles/loyalty_managment/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview ELVA POSLink Loyalty Management is a business software solution developed by ELVA. ELVA POSLink Loyalty Management is fully integrated with ELVA by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview ELVA POSLink Loyalty Management is a business software solution developed by ELVA. ELVA POSLink Loyalty Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/loyalty_managment/usage_scenarios.html": {
     "href": "articles/loyalty_managment/usage_scenarios.html",
@@ -87,7 +87,7 @@
   "articles/pos/overview.html": {
     "href": "articles/pos/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview ELVA POSLink POS is a business software solution developed by ELVA. ELVA POSLink POS is fully integrated with ELVA by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview ELVA POSLink POS is a business software solution developed by ELVA. ELVA POSLink POS is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/pos/pos.html": {
     "href": "articles/pos/pos.html",
@@ -107,7 +107,7 @@
   "articles/poslink/overview.html": {
     "href": "articles/poslink/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview ELVA POSLink is a business software solution developed by ELVA. ELVA POSLink is fully integrated with ELVA by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview ELVA POSLink is a business software solution developed by ELVA. ELVA POSLink is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/poslink/poslink.html": {
     "href": "articles/poslink/poslink.html",
@@ -127,7 +127,7 @@
   "articles/pricing_managment/overview.html": {
     "href": "articles/pricing_managment/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview ELVA POSLink POS is a business software solution developed by ELVA. ELVA POSLink POS is fully integrated with ELVA by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview ELVA POSLink POS is a business software solution developed by ELVA. ELVA POSLink POS is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/pricing_managment/pricing_managment.html": {
     "href": "articles/pricing_managment/pricing_managment.html",
@@ -147,7 +147,7 @@
   "articles/scale/overview.html": {
     "href": "articles/scale/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview ELVA POSLink Scale is a business software solution developed by ELVA. ELVA POSLink Scale is fully integrated with ELVA by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview ELVA POSLink Scale is a business software solution developed by ELVA. ELVA POSLink Scale is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/scale/scale.html": {
     "href": "articles/scale/scale.html",
@@ -167,7 +167,7 @@
   "articles/scheduler/overview.html": {
     "href": "articles/scheduler/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview ELVA POSLink Scheduler is a business software solution developed by ELVA. ELVA POSLink Scheduler is fully integrated with ELVA by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview ELVA POSLink Scheduler is a business software solution developed by ELVA. ELVA POSLink Scheduler is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/scheduler/scheduler.html": {
     "href": "articles/scheduler/scheduler.html",
@@ -187,7 +187,7 @@
   "articles/store_managment/overview.html": {
     "href": "articles/store_managment/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview ELVA POSLink Store Management is a business software solution developed by ELVA. ELVA POSLink Store Management is fully integrated with ELVA by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview ELVA POSLink Store Management is a business software solution developed by ELVA. ELVA POSLink Store Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/store_managment/store_managment.html": {
     "href": "articles/store_managment/store_managment.html",
