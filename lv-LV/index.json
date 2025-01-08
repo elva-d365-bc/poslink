@@ -12,7 +12,7 @@
   "articles/gift_card_management/overview.html": {
     "href": "articles/gift_card_management/overview.html",
     "title": "Pārskats | Latvian Localization",
-    "keywords": "Pārskats ELVA POSLink Gift Card Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Gift Card Management ir pilnībā integrēta ar ELVA paplašinot funkcionalitāti un pielāgojoties vietējo normatīvo aktu un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats ELVA POSLink Gift Card Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Gift Card Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/gift_card_management/usage_scenarios.html": {
     "href": "articles/gift_card_management/usage_scenarios.html",
@@ -32,7 +32,7 @@
   "articles/item_managment/overview.html": {
     "href": "articles/item_managment/overview.html",
     "title": "Pārskats | Latvian Localization",
-    "keywords": "Pārskats ELVA POSLink Item Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Item Management ir pilnībā integrēta ar ELVA paplašinot funkcionalitāti un pielāgojoties vietējo normatīvo aktu un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats ELVA POSLink Item Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Item Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/item_managment/usage_scenarios.html": {
     "href": "articles/item_managment/usage_scenarios.html",
@@ -52,7 +52,7 @@
   "articles/label_printing/overview.html": {
     "href": "articles/label_printing/overview.html",
     "title": "Pārskats | Latvian Localization",
-    "keywords": "Pārskats ELVA POSLink Label Printing ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Label Printing ir pilnībā integrēta ar ELVA paplašinot funkcionalitāti un pielāgojoties vietējo normatīvo aktu un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats ELVA POSLink Label Printing ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Label Printing ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/label_printing/usage_scenarios.html": {
     "href": "articles/label_printing/usage_scenarios.html",
@@ -72,7 +72,7 @@
   "articles/loyalty_managment/overview.html": {
     "href": "articles/loyalty_managment/overview.html",
     "title": "Pārskats | Latvian Localization",
-    "keywords": "Pārskats ELVA POSLink Loyalty Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Loyalty Management ir pilnībā integrēta ar ELVA paplašinot funkcionalitāti un pielāgojoties vietējo normatīvo aktu un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats ELVA POSLink Loyalty Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Loyalty Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/loyalty_managment/usage_scenarios.html": {
     "href": "articles/loyalty_managment/usage_scenarios.html",
@@ -87,7 +87,7 @@
   "articles/pos/overview.html": {
     "href": "articles/pos/overview.html",
     "title": "Pārskats | Latvian Localization",
-    "keywords": "Pārskats ELVA POSLink POS ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink POS ir pilnībā integrēta ar ELVA paplašinot funkcionalitāti un pielāgojoties vietējo normatīvo aktu un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats ELVA POSLink POS ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink POS ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/pos/pos.html": {
     "href": "articles/pos/pos.html",
@@ -107,7 +107,7 @@
   "articles/poslink/overview.html": {
     "href": "articles/poslink/overview.html",
     "title": "Pārskats | Latvian Localization",
-    "keywords": "Pārskats ELVA POSLink ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink ir pilnībā integrēta ar ELVA paplašinot funkcionalitāti un pielāgojoties vietējo normatīvo aktu un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats ELVA POSLink ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/poslink/poslink.html": {
     "href": "articles/poslink/poslink.html",
@@ -127,7 +127,7 @@
   "articles/pricing_managment/overview.html": {
     "href": "articles/pricing_managment/overview.html",
     "title": "Pārskats | Latvian Localization",
-    "keywords": "Pārskats ELVA POSLink POS ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink POS ir pilnībā integrēta ar ELVA paplašinot funkcionalitāti un pielāgojoties vietējo normatīvo aktu un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats ELVA POSLink POS ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink POS ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/pricing_managment/pricing_managment.html": {
     "href": "articles/pricing_managment/pricing_managment.html",
@@ -147,7 +147,7 @@
   "articles/scale/overview.html": {
     "href": "articles/scale/overview.html",
     "title": "Pārskats | Latvian Localization",
-    "keywords": "Pārskats ELVA POSLink Scale ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Scale ir pilnībā integrēta ar ELVA paplašinot funkcionalitāti un pielāgojoties vietējo normatīvo aktu un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats ELVA POSLink Scale ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Scale ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/scale/scale.html": {
     "href": "articles/scale/scale.html",
@@ -167,7 +167,7 @@
   "articles/scheduler/overview.html": {
     "href": "articles/scheduler/overview.html",
     "title": "Pārskats | Latvian Localization",
-    "keywords": "Pārskats ELVA POSLink Scheduler ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Scheduler ir pilnībā integrēta ar ELVA paplašinot funkcionalitāti un pielāgojoties vietējo normatīvo aktu un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats ELVA POSLink Scheduler ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Scheduler ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/scheduler/scheduler.html": {
     "href": "articles/scheduler/scheduler.html",
@@ -187,7 +187,7 @@
   "articles/store_managment/overview.html": {
     "href": "articles/store_managment/overview.html",
     "title": "Pārskats | Latvian Localization",
-    "keywords": "Pārskats ELVA POSLink Store Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Store Management ir pilnībā integrēta ar ELVA paplašinot funkcionalitāti un pielāgojoties vietējo normatīvo aktu un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats ELVA POSLink Store Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Store Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/store_managment/store_managment.html": {
     "href": "articles/store_managment/store_managment.html",
