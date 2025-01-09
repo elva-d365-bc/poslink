@@ -19,25 +19,25 @@
     "title": "Key Usage Scenarios | Latvian Localization",
     "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Gift Card Management"
   },
-  "articles/item_managment/faq.html": {
-    "href": "articles/item_managment/faq.html",
+  "articles/item_management/faq.html": {
+    "href": "articles/item_management/faq.html",
     "title": "FAQ | Latvian Localization",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Item Management, no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use [!include[nav_name](../includes/app_item_management.md)], no specific role center is required."
   },
-  "articles/item_managment/gift_item_managment.html": {
-    "href": "articles/item_managment/gift_item_managment.html",
+  "articles/item_management/gift_item_managment.html": {
+    "href": "articles/item_management/gift_item_managment.html",
     "title": "Get started | Latvian Localization",
     "keywords": "Get started Pre-requisites Setup"
   },
-  "articles/item_managment/overview.html": {
-    "href": "articles/item_managment/overview.html",
+  "articles/item_management/overview.html": {
+    "href": "articles/item_management/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview ELVA POSLink Item Management is a business software solution developed by ELVA. ELVA POSLink Item Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview [!include[nav_name](../includes/app_item_management.md)] is a business software solution developed by ELVA. [!include[nav_name](../includes/app_item_management.md)] is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
-  "articles/item_managment/usage_scenarios.html": {
-    "href": "articles/item_managment/usage_scenarios.html",
+  "articles/item_management/usage_scenarios.html": {
+    "href": "articles/item_management/usage_scenarios.html",
     "title": "Key Usage Scenarios | Latvian Localization",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Item Management"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up [!include[nav_name](../includes/app_item_management.md)]"
   },
   "articles/label_printing/faq.html": {
     "href": "articles/label_printing/faq.html",
@@ -59,25 +59,25 @@
     "title": "Key Usage Scenarios | Latvian Localization",
     "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Label Printing"
   },
-  "articles/loyalty_managment/faq.html": {
-    "href": "articles/loyalty_managment/faq.html",
+  "articles/loyalty_management/faq.html": {
+    "href": "articles/loyalty_management/faq.html",
     "title": "FAQ | Latvian Localization",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Loyalty Management, no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use [!include[nav_name](../includes/app_loyalty_management.md)], no specific role center is required."
   },
-  "articles/loyalty_managment/loyalty_managment.html": {
-    "href": "articles/loyalty_managment/loyalty_managment.html",
+  "articles/loyalty_management/loyalty_managment.html": {
+    "href": "articles/loyalty_management/loyalty_managment.html",
     "title": "Get started | Latvian Localization",
     "keywords": "Get started Pre-requisites Setup"
   },
-  "articles/loyalty_managment/overview.html": {
-    "href": "articles/loyalty_managment/overview.html",
+  "articles/loyalty_management/overview.html": {
+    "href": "articles/loyalty_management/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview ELVA POSLink Loyalty Management is a business software solution developed by ELVA. ELVA POSLink Loyalty Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview [!include[nav_name](../includes/app_loyalty_management.md)] is a business software solution developed by ELVA. [!include[nav_name](../includes/app_loyalty_management.md)] is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
-  "articles/loyalty_managment/usage_scenarios.html": {
-    "href": "articles/loyalty_managment/usage_scenarios.html",
+  "articles/loyalty_management/usage_scenarios.html": {
+    "href": "articles/loyalty_management/usage_scenarios.html",
     "title": "Key Usage Scenarios | Latvian Localization",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Loyalty Management"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up [!include[nav_name](../includes/app_loyalty_management.md)]"
   },
   "articles/pos/faq.html": {
     "href": "articles/pos/faq.html",
@@ -119,25 +119,25 @@
     "title": "Key Usage Scenarios | Latvian Localization",
     "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink POS"
   },
-  "articles/pricing_managment/faq.html": {
-    "href": "articles/pricing_managment/faq.html",
+  "articles/pricing_management/faq.html": {
+    "href": "articles/pricing_management/faq.html",
     "title": "FAQ | Latvian Localization",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use [!include[nav_name](../includes/pricing_managment.md)], no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use [!include[nav_name](../includes/app_pricing_management.md)], no specific role center is required."
   },
-  "articles/pricing_managment/overview.html": {
-    "href": "articles/pricing_managment/overview.html",
+  "articles/pricing_management/overview.html": {
+    "href": "articles/pricing_management/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview ELVA POSLink POS is a business software solution developed by ELVA. ELVA POSLink POS is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview [!include[nav_name](../includes/app_pricing_management.md)] is a business software solution developed by ELVA. [!include[nav_name](../includes/app_pricing_management.md)] is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
-  "articles/pricing_managment/pricing_managment.html": {
-    "href": "articles/pricing_managment/pricing_managment.html",
+  "articles/pricing_management/pricing_managment.html": {
+    "href": "articles/pricing_management/pricing_managment.html",
     "title": "Get started | Latvian Localization",
     "keywords": "Get started Pre-requisites Setup"
   },
-  "articles/pricing_managment/usage_scenarios.html": {
-    "href": "articles/pricing_managment/usage_scenarios.html",
+  "articles/pricing_management/usage_scenarios.html": {
+    "href": "articles/pricing_management/usage_scenarios.html",
     "title": "Key Usage Scenarios | Latvian Localization",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Pricing Management"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up [!include[nav_name](../includes/app_pricing_management.md)]"
   },
   "articles/scale/faq.html": {
     "href": "articles/scale/faq.html",
@@ -179,25 +179,25 @@
     "title": "Key Usage Scenarios | Latvian Localization",
     "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Scheduler"
   },
-  "articles/store_managment/faq.html": {
-    "href": "articles/store_managment/faq.html",
+  "articles/store_management/faq.html": {
+    "href": "articles/store_management/faq.html",
     "title": "FAQ | Latvian Localization",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Store Management, no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use [!include[nav_name](../includes/app_store_management.md)], no specific role center is required."
   },
-  "articles/store_managment/overview.html": {
-    "href": "articles/store_managment/overview.html",
+  "articles/store_management/overview.html": {
+    "href": "articles/store_management/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview ELVA POSLink Store Management is a business software solution developed by ELVA. ELVA POSLink Store Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview [!include[nav_name](../includes/app_store_management.md)] is a business software solution developed by ELVA. [!include[nav_name](../includes/app_store_management.md)] is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
-  "articles/store_managment/store_managment.html": {
-    "href": "articles/store_managment/store_managment.html",
+  "articles/store_management/store_managment.html": {
+    "href": "articles/store_management/store_managment.html",
     "title": "Get started | Latvian Localization",
     "keywords": "Get started Pre-requisites Setup"
   },
-  "articles/store_managment/usage_scenarios.html": {
-    "href": "articles/store_managment/usage_scenarios.html",
+  "articles/store_management/usage_scenarios.html": {
+    "href": "articles/store_management/usage_scenarios.html",
     "title": "Key Usage Scenarios | Latvian Localization",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Store Management"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up [!include[nav_name](../includes/app_store_management.md)]"
   },
   "articles/support/customer_terms.html": {
     "href": "articles/support/customer_terms.html",
@@ -209,14 +209,34 @@
     "title": "Elva Baltic Privacy Statement | Latvian Localization",
     "keywords": "Elva Baltic Privacy Statement [Updated 30.08.2018] Introduction Elva Baltic (We, Us) is intended to respect and protect your privacy. This privacy statement describes how Elva Baltic collects, uses, protects and shares personal information of users. This privacy statement shall be subject to, governed by and construed in accordance with laws and Regulations of Republic of Latvia and European Union. Data We Collect Elva Baltic collects data that is needed to operate the cooperation with you. We collect information in several ways: Information You give us. Personal identifiers such as First name, Last name, company, country; Contact details such as e-mail, Phone number and other information required for business between You and Elva Baltic. Information third parties provide. Elva Baltic may get information from other parties and sources about you and your company. Information collected automatically. Elva Baltic is using automatic information logging about you and your computer, when our Websites are being accessed. Information logged using \"Cookies\". Elva Baltic sites uses \"cookies\" - small text files that are placed on your computer. In general, cookies are used to retain user preferences and provide anonymous tracking data to third party applications \"Cookies\" will make your browsing experience better. How We Use Personal Data Elva Baltic use personal information for following reasons: to prepare offers of our products, solutions and services, to prepare such agreements as licensing, non-disclosure agreement or any other agreements, appendices to agreements that sets the rights and obligations between You and Elva Baltic, to prepare VAT compliant invoices, as it is stated by regulation of Republic of Latvia, send technical notices, updates, security alerts, support and administrative messages, to communicate with you and provide customer service, to inform you about special offers, other products, seminars and other events to determine, which products, articles, solution descriptions provided by Elva Baltic attract Customer interest, so that We could tailor our products, articles, solution descriptions based on tendencies of particular industry, to operate, maintain, and improve our sites, products, and services. How We Protect Your Data Elva Baltic respects the individual's rights to privacy and makes all reasonable efforts to ensure the security and confidentiality of personal data and other information. All data in electronic format (emails, documents, uploaded batches of data, etc.) are stored either on the servers of the Elva Baltic or of its contractors, operation of which must abide local regulation of data protection of Republic of Latvia and regulation provided by European Union. Non-disclosure agreements with our employees and contractors ensure safe record keeping. Sharing Personal Data Elva Baltic may share personal information to complete any transaction or fulfill any commitment related to our products and/ or services you have requested from us. We share information: with your consent to third parties, to authorized employees of Elva Baltic and our contractors based on their direct responsibilities and involvement, for legal, protection and safety purposes, to comply with laws in the countries where we operate, to respond to requests and processes according to laws, anonymized data with social media, advertising and analytics partners. What are your rights You may access and control your personal data that Elva Baltic has obtained by contacting as described below. You may: request access to, erasure of, and updated to your personal data, withdraw your consent at any time, if you have given it, restrict Elva Baltic use your personal data for marketing purposes or where Elva Baltic performs a task in the public interest or pursues legitimate interests or those of a third party. Replies to any questions or issues raised by You are to be provided within time of ordinary business processing. Privacy Statement Changes Elva Baltic reserves the rights to change the regulations of this privacy policy at any time. We will provide you with the date when the privacy statement has been revised. Contact information If you have any queries about our Privacy Statement, please contact us: Elva Baltic 46 Robezu str., Riga LV-1004, Latvia info@elvabaltic.lv +371 67065115"
   },
+  "articles/tracking_management/faq.html": {
+    "href": "articles/tracking_management/faq.html",
+    "title": "FAQ | Latvian Localization",
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use [!include[nav_name](../includes/app_tracking_management.md)], no specific role center is required."
+  },
+  "articles/tracking_management/overview.html": {
+    "href": "articles/tracking_management/overview.html",
+    "title": "Overview | Latvian Localization",
+    "keywords": "Overview [!include[nav_name](../includes/app_tracking_management.md)] is a business software solution developed by ELVA. [!include[nav_name](../includes/app_tracking_management.md)] is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+  },
+  "articles/tracking_management/tracking_managment.html": {
+    "href": "articles/tracking_management/tracking_managment.html",
+    "title": "Get started | Latvian Localization",
+    "keywords": "Get started Pre-requisites Setup"
+  },
+  "articles/tracking_management/usage_scenarios.html": {
+    "href": "articles/tracking_management/usage_scenarios.html",
+    "title": "Key Usage Scenarios | Latvian Localization",
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up [!include[nav_name](../includes/app_tracking_management.md)]"
+  },
   "index.html": {
     "href": "index.html",
     "title": "ELVA POSLink contains following apps: | Latvian Localization",
-    "keywords": "ELVA POSLink contains following apps: ELVA POSLink ELVA POSLink Store Management ELVA POSLink Item Management ELVA POSLink Pricing Management ELVA POSLink Loyalty Management ELVA POSLink Label Printing ELVA POSLink Gift Card Management ELVA POSLink POS ELVA POSLink Scale ELVA POSLink Scheduler LV"
+    "keywords": "ELVA POSLink contains following apps: ELVA POSLink [!include[app_store_management](articles/includes/app_store_management.md)] [!include[app_item_management](articles/includes/app_item_management.md)] [!include[app_pricing_management](articles/includes/app_pricing_management.md)] [!include[app_loyalty_management](articles/includes/app_loyalty_management.md)] ELVA POSLink Label Printing ELVA POSLink Gift Card Management ELVA POSLink POS ELVA POSLink Scale ELVA POSLink Scheduler [!include[app_tracking_management](articles/includes/app_tracking_management.md)] LV"
   },
   "readme.html": {
     "href": "readme.html",
     "title": "[ELVA POSLink] Help pages for Microsoft Dynamics 365 Business Central | Latvian Localization",
-    "keywords": "[ELVA POSLink] Help pages for Microsoft Dynamics 365 Business Central This help is hosted on GitHub pages at address: https://elva-d365bc.github.io/help Project is based on DocFX solution Considerations File naming: All file names must be in lowercase, contains only alpha numeric symbols File names must not contain national characters or space Folder structure: Root folder contains some config files for DocFx Folder /images contains images used by all apps help Folder /templates contains DocxFx templates for generating site and pdf files Folder /articles contains all help files Each app has separate subfolder under /articles poslink store_managment item_managment pricing_managment loyalty_managment label_printing gift_card_management pos scale scheduler Folder /articles/support contains support files, such as customer terms and license agreement Each app folder should contain file toc.md with table of content and folder images, where should place images specific for this app help. Installation To update and run site generated for this help You should install following components: Visual Studio Code Doc FX compiler Add path to DocFx folder to user environment variable Path Git VCS If it not installed to default path (Program Files...) You should specify path to git.exe in VSCode settings file, for example: \"git.path\": \"d:/apps/git/bin/git.exe\" Useful links: Mark down syntax Word to Markdown Convertor RGB to HEX color convertor Spell checking To enable English spell checking install spell checker VS extension SpellRight and select language in right bottom corner of VSCode. Images To include image in md file You should use link of following format: ![alt](images/image_file_name.png) Includes Folder /articles/includes contains md files with reusable text. Each file should contain one line text, that can be used many times in different md files. To use include text in md files file use link of following format: [!INCLUDE[nav_name](./articles/includes/incl_name.md)] Where path to include file should be relative to current md file. Note (Warning/Tip/Important) You can use specially formatted blocks to pay user attention. These blocks format is following > [!NOTE] > Some note content that shoul be formatted as note > and the second line of note Will formatted in following way: Note Some note content that should be formatted as note and the second line of note In place of NOTE you can use also following keywords: TIP WARNING IMPORTANT CAUTION Tables Tables also can be formatted: | Tables | Are | Cool | | ------------- | :-----------: | ----: | | col 3 is | right-aligned | $1600 | | col 2 is | centered | $12 | | zebra stripes | are neat | $1 | Tables Are Cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1"
+    "keywords": "[ELVA POSLink] Help pages for Microsoft Dynamics 365 Business Central This help is hosted on GitHub pages at address: https://elva-d365bc.github.io/help Project is based on DocFX solution Considerations File naming: All file names must be in lowercase, contains only alpha numeric symbols File names must not contain national characters or space Folder structure: Root folder contains some config files for DocFx Folder /images contains images used by all apps help Folder /templates contains DocxFx templates for generating site and pdf files Folder /articles contains all help files Each app has separate subfolder under /articles poslink store_management item_management pricing_management loyalty_management label_printing gift_card_management pos scale scheduler Folder /articles/support contains support files, such as customer terms and license agreement Each app folder should contain file toc.md with table of content and folder images, where should place images specific for this app help. Installation To update and run site generated for this help You should install following components: Visual Studio Code Doc FX compiler Add path to DocFx folder to user environment variable Path Git VCS If it not installed to default path (Program Files...) You should specify path to git.exe in VSCode settings file, for example: \"git.path\": \"d:/apps/git/bin/git.exe\" Useful links: Mark down syntax Word to Markdown Convertor RGB to HEX color convertor Spell checking To enable English spell checking install spell checker VS extension SpellRight and select language in right bottom corner of VSCode. Images To include image in md file You should use link of following format: ![alt](images/image_file_name.png) Includes Folder /articles/includes contains md files with reusable text. Each file should contain one line text, that can be used many times in different md files. To use include text in md files file use link of following format: [!INCLUDE[nav_name](./articles/includes/incl_name.md)] Where path to include file should be relative to current md file. Note (Warning/Tip/Important) You can use specially formatted blocks to pay user attention. These blocks format is following > [!NOTE] > Some note content that shoul be formatted as note > and the second line of note Will formatted in following way: Note Some note content that should be formatted as note and the second line of note In place of NOTE you can use also following keywords: TIP WARNING IMPORTANT CAUTION Tables Tables also can be formatted: | Tables | Are | Cool | | ------------- | :-----------: | ----: | | col 3 is | right-aligned | $1600 | | col 2 is | centered | $12 | | zebra stripes | are neat | $1 | Tables Are Cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1"
   }
 }
