@@ -73,15 +73,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/item_management/faq.md",
       "output": {
         ".html": {
           "relative_path": "articles/item_management/faq.html",
-          "hash": "F6jHjuoUDaOUzU9+PTfizCv/gAsDRtFyM17xutQwPhc="
+          "hash": "lm7K5JF8J0ONN9rrb/W9CcaA1eciy9lkd0wWvj2Fbxg="
         }
       },
       "is_incremental": false,
@@ -100,15 +97,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/item_management/overview.md",
       "output": {
         ".html": {
           "relative_path": "articles/item_management/overview.html",
-          "hash": "kZkGLv6gNaANHaYL+OqHgp5nGttb1OjHtDEaK90Zby8="
+          "hash": "/5N4UilVhNZrR8Lnk67ox7BeBMScizwzojF0ktUy1jE="
         }
       },
       "is_incremental": false,
@@ -130,15 +124,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/item_management/usage_scenarios.md",
       "output": {
         ".html": {
           "relative_path": "articles/item_management/usage_scenarios.html",
-          "hash": "DY3d6ruNNovTsAj2ujJ8jgaClXa7eMGIq17wz+5Kf9g="
+          "hash": "6nweACBlf+3M4Nnkpv1LjBNW/IW3YeBNeJ3M8fk5daU="
         }
       },
       "is_incremental": false,
@@ -208,15 +199,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/loyalty_management/faq.md",
       "output": {
         ".html": {
           "relative_path": "articles/loyalty_management/faq.html",
-          "hash": "runWvF/IQvx3x6DWFdu+ntUCBoFuYlM0pj9eOJiaURs="
+          "hash": "6zoUxTT4MFJM2yIWYqbhar0M6ieBq3aO65KJqlqMzG0="
         }
       },
       "is_incremental": false,
@@ -235,15 +223,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/loyalty_management/overview.md",
       "output": {
         ".html": {
           "relative_path": "articles/loyalty_management/overview.html",
-          "hash": "iop8nJS1zWaK60lnOT1dZiEOVaE57DpJJV71U+3h/9Q="
+          "hash": "5llXSHENWB08XCMBeQIJO8SMfB1PT+jA0KdKx+vWJ6U="
         }
       },
       "is_incremental": false,
@@ -265,15 +250,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/loyalty_management/usage_scenarios.md",
       "output": {
         ".html": {
           "relative_path": "articles/loyalty_management/usage_scenarios.html",
-          "hash": "zAYdDlsxmOlYgHAO9Pgqg4b3vKTPCVCR5zB9QSobd1I="
+          "hash": "p+tX24t13WKff3UhF+E/5cZcg/yY38edv7xvZwzlgu0="
         }
       },
       "is_incremental": false,
@@ -400,30 +382,24 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/pricing_management/faq.md",
       "output": {
         ".html": {
           "relative_path": "articles/pricing_management/faq.html",
-          "hash": "AlQt8yY6RbXfqZdJMBkJ5SpVZdwJLHnR1O/gFI9oGaE="
+          "hash": "WjagGnVTdsBDByp+Je6JN8sry9bCawcKleD4sQvy1U8="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/pricing_management/overview.md",
       "output": {
         ".html": {
           "relative_path": "articles/pricing_management/overview.html",
-          "hash": "WGy83JwCU1LmIpqXnmGjv/ZrtMmw8NE64pQ38bJjPNc="
+          "hash": "h7mQDJn1yj/W1PWZ8KRAom67f/La25LWkS+r+2M6mB4="
         }
       },
       "is_incremental": false,
@@ -457,15 +433,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/pricing_management/usage_scenarios.md",
       "output": {
         ".html": {
           "relative_path": "articles/pricing_management/usage_scenarios.html",
-          "hash": "f9Hyxz+sqpv2mXJpZeEv+y8vcw9281daHrVTe/xICa8="
+          "hash": "CkeBTbwZEuYnw92yilk80J7MvPu1U0/VpEFym3Tzqqo="
         }
       },
       "is_incremental": false,
@@ -592,30 +565,24 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/store_management/faq.md",
       "output": {
         ".html": {
           "relative_path": "articles/store_management/faq.html",
-          "hash": "+xPwWrDfMwOkEIiJrk1Z5p7MPdgQWnqZG1KNqlcSSc4="
+          "hash": "y9jK5jeYo0SK/b3OdTpFiv/NxJxHyNrdICYhfBhb0SU="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/store_management/overview.md",
       "output": {
         ".html": {
           "relative_path": "articles/store_management/overview.html",
-          "hash": "apV5A43D0eG8TXJEYbGFHd3JKnDjRCSvRe6kTsp2S9U="
+          "hash": "4c9xRRkHvEryA3Vitx0r3zJazntVsx0fIR/1ss3/6Xc="
         }
       },
       "is_incremental": false,
@@ -649,15 +616,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/store_management/usage_scenarios.md",
       "output": {
         ".html": {
           "relative_path": "articles/store_management/usage_scenarios.html",
-          "hash": "JsPrFK198xuzISSU5xc2grhPNxwpwXL8wY8UkiWqTHA="
+          "hash": "SSoj+a7WLkjrkAN0OamCSTkBpX85hqruznDrU4d9gi4="
         }
       },
       "is_incremental": false,
@@ -700,30 +664,24 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/tracking_management/faq.md",
       "output": {
         ".html": {
           "relative_path": "articles/tracking_management/faq.html",
-          "hash": "rdC+KpAxY9TkUbVqpv58c5PxwV7dwdRd9/Mbr+64vV4="
+          "hash": "rlzA97wTiSMsb8EnmtD54E0F66lXDsYTkSeUV46Q3rI="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/tracking_management/overview.md",
       "output": {
         ".html": {
           "relative_path": "articles/tracking_management/overview.html",
-          "hash": "H+YmAzc2OCo9qshUHwhbGf1/DCdfxUH8+fRv0GAdNFo="
+          "hash": "lmPJgjq1HjBspDv/XdsbZbcyxFBMCfqjIIsO91yF+cE="
         }
       },
       "is_incremental": false,
@@ -757,15 +715,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/tracking_management/usage_scenarios.md",
       "output": {
         ".html": {
           "relative_path": "articles/tracking_management/usage_scenarios.html",
-          "hash": "i6AbYYs928S4Km9Mws8soTqXISK8T/eACDfw68vJlOg="
+          "hash": "au0f9IJmiw3m2Q/Lu/lxdHZBV5Nd12kXt3mZURdjWyw="
         }
       },
       "is_incremental": false,
@@ -794,15 +749,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "NgmEfjMYbOy74SoYeQRKGM18vaMZhCYI0nyc5wLha0U="
+          "hash": "02zdYrLNQnHGnXjIJrtEK56c42C5AYY4ojatMlPYsfA="
         }
       },
       "is_incremental": false,

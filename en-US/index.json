@@ -22,7 +22,7 @@
   "articles/item_management/faq.html": {
     "href": "articles/item_management/faq.html",
     "title": "FAQ | Latvian Localization",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use [!include[nav_name](../includes/app_item_management.md)], no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Item Management, no specific role center is required."
   },
   "articles/item_management/gift_item_managment.html": {
     "href": "articles/item_management/gift_item_managment.html",
@@ -32,12 +32,12 @@
   "articles/item_management/overview.html": {
     "href": "articles/item_management/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview [!include[nav_name](../includes/app_item_management.md)] is a business software solution developed by ELVA. [!include[nav_name](../includes/app_item_management.md)] is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview ELVA POSLink Item Management is a business software solution developed by ELVA. ELVA POSLink Item Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/item_management/usage_scenarios.html": {
     "href": "articles/item_management/usage_scenarios.html",
     "title": "Key Usage Scenarios | Latvian Localization",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up [!include[nav_name](../includes/app_item_management.md)]"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Item Management"
   },
   "articles/label_printing/faq.html": {
     "href": "articles/label_printing/faq.html",
@@ -62,7 +62,7 @@
   "articles/loyalty_management/faq.html": {
     "href": "articles/loyalty_management/faq.html",
     "title": "FAQ | Latvian Localization",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use [!include[nav_name](../includes/app_loyalty_management.md)], no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Loyalty Management, no specific role center is required."
   },
   "articles/loyalty_management/loyalty_managment.html": {
     "href": "articles/loyalty_management/loyalty_managment.html",
@@ -72,12 +72,12 @@
   "articles/loyalty_management/overview.html": {
     "href": "articles/loyalty_management/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview [!include[nav_name](../includes/app_loyalty_management.md)] is a business software solution developed by ELVA. [!include[nav_name](../includes/app_loyalty_management.md)] is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview ELVA POSLink Loyalty Management is a business software solution developed by ELVA. ELVA POSLink Loyalty Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/loyalty_management/usage_scenarios.html": {
     "href": "articles/loyalty_management/usage_scenarios.html",
     "title": "Key Usage Scenarios | Latvian Localization",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up [!include[nav_name](../includes/app_loyalty_management.md)]"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Loyalty Management"
   },
   "articles/pos/faq.html": {
     "href": "articles/pos/faq.html",
@@ -122,12 +122,12 @@
   "articles/pricing_management/faq.html": {
     "href": "articles/pricing_management/faq.html",
     "title": "FAQ | Latvian Localization",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use [!include[nav_name](../includes/app_pricing_management.md)], no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Pricing Management, no specific role center is required."
   },
   "articles/pricing_management/overview.html": {
     "href": "articles/pricing_management/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview [!include[nav_name](../includes/app_pricing_management.md)] is a business software solution developed by ELVA. [!include[nav_name](../includes/app_pricing_management.md)] is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview ELVA POSLink Pricing Management is a business software solution developed by ELVA. ELVA POSLink Pricing Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/pricing_management/pricing_managment.html": {
     "href": "articles/pricing_management/pricing_managment.html",
@@ -137,7 +137,7 @@
   "articles/pricing_management/usage_scenarios.html": {
     "href": "articles/pricing_management/usage_scenarios.html",
     "title": "Key Usage Scenarios | Latvian Localization",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up [!include[nav_name](../includes/app_pricing_management.md)]"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Pricing Management"
   },
   "articles/scale/faq.html": {
     "href": "articles/scale/faq.html",
@@ -182,12 +182,12 @@
   "articles/store_management/faq.html": {
     "href": "articles/store_management/faq.html",
     "title": "FAQ | Latvian Localization",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use [!include[nav_name](../includes/app_store_management.md)], no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Store Management, no specific role center is required."
   },
   "articles/store_management/overview.html": {
     "href": "articles/store_management/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview [!include[nav_name](../includes/app_store_management.md)] is a business software solution developed by ELVA. [!include[nav_name](../includes/app_store_management.md)] is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview ELVA POSLink Store Management is a business software solution developed by ELVA. ELVA POSLink Store Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/store_management/store_managment.html": {
     "href": "articles/store_management/store_managment.html",
@@ -197,7 +197,7 @@
   "articles/store_management/usage_scenarios.html": {
     "href": "articles/store_management/usage_scenarios.html",
     "title": "Key Usage Scenarios | Latvian Localization",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up [!include[nav_name](../includes/app_store_management.md)]"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Store Management"
   },
   "articles/support/customer_terms.html": {
     "href": "articles/support/customer_terms.html",
@@ -212,12 +212,12 @@
   "articles/tracking_management/faq.html": {
     "href": "articles/tracking_management/faq.html",
     "title": "FAQ | Latvian Localization",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use [!include[nav_name](../includes/app_tracking_management.md)], no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Tracking Management, no specific role center is required."
   },
   "articles/tracking_management/overview.html": {
     "href": "articles/tracking_management/overview.html",
     "title": "Overview | Latvian Localization",
-    "keywords": "Overview [!include[nav_name](../includes/app_tracking_management.md)] is a business software solution developed by ELVA. [!include[nav_name](../includes/app_tracking_management.md)] is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview ELVA POSLink Tracking Management is a business software solution developed by ELVA. ELVA POSLink Tracking Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/tracking_management/tracking_managment.html": {
     "href": "articles/tracking_management/tracking_managment.html",
@@ -227,12 +227,12 @@
   "articles/tracking_management/usage_scenarios.html": {
     "href": "articles/tracking_management/usage_scenarios.html",
     "title": "Key Usage Scenarios | Latvian Localization",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up [!include[nav_name](../includes/app_tracking_management.md)]"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Tracking Management"
   },
   "index.html": {
     "href": "index.html",
     "title": "ELVA POSLink contains following apps: | Latvian Localization",
-    "keywords": "ELVA POSLink contains following apps: ELVA POSLink [!include[app_store_management](articles/includes/app_store_management.md)] [!include[app_item_management](articles/includes/app_item_management.md)] [!include[app_pricing_management](articles/includes/app_pricing_management.md)] [!include[app_loyalty_management](articles/includes/app_loyalty_management.md)] ELVA POSLink Label Printing ELVA POSLink Gift Card Management ELVA POSLink POS ELVA POSLink Scale ELVA POSLink Scheduler [!include[app_tracking_management](articles/includes/app_tracking_management.md)] LV"
+    "keywords": "ELVA POSLink contains following apps: ELVA POSLink ELVA POSLink Store Management ELVA POSLink Item Management ELVA POSLink Pricing Management ELVA POSLink Loyalty Management ELVA POSLink Label Printing ELVA POSLink Gift Card Management ELVA POSLink POS ELVA POSLink Scale ELVA POSLink Scheduler ELVA POSLink Tracking Management LV"
   },
   "readme.html": {
     "href": "readme.html",
