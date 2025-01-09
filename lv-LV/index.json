@@ -22,7 +22,7 @@
   "articles/item_management/faq.html": {
     "href": "articles/item_management/faq.html",
     "title": "BUJ | Latvian Localization",
-    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot [!include[nav_name](../includes/app_item_management.md)], specifisks Lomu centrs nav nepieciešams."
+    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink Item Management, specifisks Lomu centrs nav nepieciešams."
   },
   "articles/item_management/gift_item_managment.html": {
     "href": "articles/item_management/gift_item_managment.html",
@@ -32,12 +32,12 @@
   "articles/item_management/overview.html": {
     "href": "articles/item_management/overview.html",
     "title": "Pārskats | Latvian Localization",
-    "keywords": "Pārskats [!include[nav_name](../includes/app_item_management.md)] ir biznesa programmatūras risinājums, kas izstrādāts ELVA. [!include[nav_name](../includes/app_item_management.md)] ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats ELVA POSLink Item Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Item Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/item_management/usage_scenarios.html": {
     "href": "articles/item_management/usage_scenarios.html",
     "title": "Lietošanas scenāriji | Latvian Localization",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt [!include[nav_name](../includes/app_item_management.md)]"
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt ELVA POSLink Item Management"
   },
   "articles/label_printing/faq.html": {
     "href": "articles/label_printing/faq.html",
@@ -62,7 +62,7 @@
   "articles/loyalty_management/faq.html": {
     "href": "articles/loyalty_management/faq.html",
     "title": "BUJ | Latvian Localization",
-    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot [!include[nav_name](../includes/app_loyalty_management.md)], specifisks Lomu centrs nav nepieciešams."
+    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink Loyalty Management, specifisks Lomu centrs nav nepieciešams."
   },
   "articles/loyalty_management/loyalty_managment.html": {
     "href": "articles/loyalty_management/loyalty_managment.html",
@@ -72,12 +72,12 @@
   "articles/loyalty_management/overview.html": {
     "href": "articles/loyalty_management/overview.html",
     "title": "Pārskats | Latvian Localization",
-    "keywords": "Pārskats [!include[nav_name](../includes/app_loyalty_management.md)] ir biznesa programmatūras risinājums, kas izstrādāts ELVA. [!include[nav_name](../includes/app_loyalty_management.md)] ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats ELVA POSLink Loyalty Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Loyalty Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/loyalty_management/usage_scenarios.html": {
     "href": "articles/loyalty_management/usage_scenarios.html",
     "title": "Lietošanas scenāriji | Latvian Localization",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt [!include[nav_name](../includes/app_loyalty_management.md)]"
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt ELVA POSLink Loyalty Management"
   },
   "articles/pos/faq.html": {
     "href": "articles/pos/faq.html",
@@ -127,7 +127,7 @@
   "articles/pricing_management/overview.html": {
     "href": "articles/pricing_management/overview.html",
     "title": "Pārskats | Latvian Localization",
-    "keywords": "Pārskats [!include[nav_name](../includes/app_pricing_management.md)] ir biznesa programmatūras risinājums, kas izstrādāts ELVA. [!include[nav_name](../includes/app_pricing_management.md)] ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats ELVA POSLink Pricing Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Pricing Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/pricing_management/pricing_managment.html": {
     "href": "articles/pricing_management/pricing_managment.html",
@@ -137,7 +137,7 @@
   "articles/pricing_management/usage_scenarios.html": {
     "href": "articles/pricing_management/usage_scenarios.html",
     "title": "Lietošanas scenāriji | Latvian Localization",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt [!include[nav_name](../includes/app_pricing_management.md)]"
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt ELVA POSLink Pricing Management"
   },
   "articles/scale/faq.html": {
     "href": "articles/scale/faq.html",
@@ -182,12 +182,12 @@
   "articles/store_management/faq.html": {
     "href": "articles/store_management/faq.html",
     "title": "BUJ | Latvian Localization",
-    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot [!include[nav_name](../includes/app_store_management.md)], specifisks Lomu centrs nav nepieciešams."
+    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink Store Management, specifisks Lomu centrs nav nepieciešams."
   },
   "articles/store_management/overview.html": {
     "href": "articles/store_management/overview.html",
     "title": "Pārskats | Latvian Localization",
-    "keywords": "Pārskats [!include[nav_name](../includes/app_store_management.md)] ir biznesa programmatūras risinājums, kas izstrādāts ELVA. [!include[nav_name](../includes/app_store_management.md)] ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats ELVA POSLink Store Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Store Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/store_management/store_managment.html": {
     "href": "articles/store_management/store_managment.html",
@@ -197,7 +197,7 @@
   "articles/store_management/usage_scenarios.html": {
     "href": "articles/store_management/usage_scenarios.html",
     "title": "Lietošanas scenāriji | Latvian Localization",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt [!include[nav_name](../includes/app_store_management.md)]"
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt ELVA POSLink Store Management"
   },
   "articles/support/customer_terms.html": {
     "href": "articles/support/customer_terms.html",
@@ -212,12 +212,12 @@
   "articles/tracking_management/faq.html": {
     "href": "articles/tracking_management/faq.html",
     "title": "BUJ | Latvian Localization",
-    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot [!include[nav_name](../includes/app_tracking_management.md)], specifisks Lomu centrs nav nepieciešams."
+    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink Tracking Management, specifisks Lomu centrs nav nepieciešams."
   },
   "articles/tracking_management/overview.html": {
     "href": "articles/tracking_management/overview.html",
     "title": "Pārskats | Latvian Localization",
-    "keywords": "Pārskats [!include[nav_name](../includes/app_tracking_management.md)] ir biznesa programmatūras risinājums, kas izstrādāts ELVA. [!include[nav_name](../includes/app_tracking_management.md)] ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats ELVA POSLink Tracking Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Tracking Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/tracking_management/tracking_managment.html": {
     "href": "articles/tracking_management/tracking_managment.html",
@@ -227,12 +227,12 @@
   "articles/tracking_management/usage_scenarios.html": {
     "href": "articles/tracking_management/usage_scenarios.html",
     "title": "Lietošanas scenāriji | Latvian Localization",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt [!include[nav_name](../includes/app_tracking_management.md)]"
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt ELVA POSLink Tracking Management"
   },
   "index.html": {
     "href": "index.html",
     "title": "ELVA POSLink iekļauj sevī iekļauj sekojošus appus: | Latvian Localization",
-    "keywords": "ELVA POSLink iekļauj sevī iekļauj sekojošus appus: ELVA POSLink [!include[app_store_management](articles/includes/app_store_management.md)] [!include[app_item_management](articles/includes/app_item_management.md)] [!include[app_pricing_management](articles/includes/app_pricing_management.md)] [!include[app_loyalty_management](articles/includes/app_loyalty_management.md)] ELVA POSLink Label Printing ELVA POSLink Gift Card Management ELVA POSLink POS ELVA POSLink Scale ELVA POSLink Scheduler [!include[app_tracking_management](articles/includes/app_tracking_management.md)] LV"
+    "keywords": "ELVA POSLink iekļauj sevī iekļauj sekojošus appus: ELVA POSLink ELVA POSLink Store Management ELVA POSLink Item Management ELVA POSLink Pricing Management ELVA POSLink Loyalty Management ELVA POSLink Label Printing ELVA POSLink Gift Card Management ELVA POSLink POS ELVA POSLink Scale ELVA POSLink Scheduler ELVA POSLink Tracking Management LV"
   },
   "readme.html": {
     "href": "readme.html",
