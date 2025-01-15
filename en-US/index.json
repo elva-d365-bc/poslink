@@ -24,8 +24,8 @@
     "title": "FAQ | Latvian Localization",
     "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Item Management, no specific role center is required."
   },
-  "articles/item_management/gift_item_managment.html": {
-    "href": "articles/item_management/gift_item_managment.html",
+  "articles/item_management/gift_item_management.html": {
+    "href": "articles/item_management/gift_item_management.html",
     "title": "Get started | Latvian Localization",
     "keywords": "Get started Pre-requisites Setup"
   },
@@ -64,8 +64,8 @@
     "title": "FAQ | Latvian Localization",
     "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Loyalty Management, no specific role center is required."
   },
-  "articles/loyalty_management/loyalty_managment.html": {
-    "href": "articles/loyalty_management/loyalty_managment.html",
+  "articles/loyalty_management/loyalty_management.html": {
+    "href": "articles/loyalty_management/loyalty_management.html",
     "title": "Get started | Latvian Localization",
     "keywords": "Get started Pre-requisites Setup"
   },
@@ -129,8 +129,8 @@
     "title": "Overview | Latvian Localization",
     "keywords": "Overview ELVA POSLink Pricing Management is a business software solution developed by ELVA. ELVA POSLink Pricing Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
-  "articles/pricing_management/pricing_managment.html": {
-    "href": "articles/pricing_management/pricing_managment.html",
+  "articles/pricing_management/pricing_management.html": {
+    "href": "articles/pricing_management/pricing_management.html",
     "title": "Get started | Latvian Localization",
     "keywords": "Get started Pre-requisites Setup"
   },
@@ -189,8 +189,8 @@
     "title": "Overview | Latvian Localization",
     "keywords": "Overview ELVA POSLink Store Management is a business software solution developed by ELVA. ELVA POSLink Store Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
-  "articles/store_management/store_managment.html": {
-    "href": "articles/store_management/store_managment.html",
+  "articles/store_management/store_management.html": {
+    "href": "articles/store_management/store_management.html",
     "title": "Get started | Latvian Localization",
     "keywords": "Get started Pre-requisites Setup"
   },
@@ -219,8 +219,8 @@
     "title": "Overview | Latvian Localization",
     "keywords": "Overview ELVA POSLink Tracking Management is a business software solution developed by ELVA. ELVA POSLink Tracking Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
-  "articles/tracking_management/tracking_managment.html": {
-    "href": "articles/tracking_management/tracking_managment.html",
+  "articles/tracking_management/tracking_management.html": {
+    "href": "articles/tracking_management/tracking_management.html",
     "title": "Get started | Latvian Localization",
     "keywords": "Get started Pre-requisites Setup"
   },
