@@ -30,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/gift_card_management/gift_card_management.html",
-          "hash": "iiPKqF7dYbJHBLxfpVqGzs9U1srKcFBR81JYaQD09wA="
+          "hash": "GtlDMyoS9smPjAC7HAZZ4nkqNnFp2Fvxb+cMdidmTMs="
         }
       },
       "is_incremental": false,
@@ -86,11 +86,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/item_management/gift_item_managment.md",
+      "source_relative_path": "articles/item_management/gift_item_management.md",
       "output": {
         ".html": {
-          "relative_path": "articles/item_management/gift_item_managment.html",
-          "hash": "M5J1Xrq/8HivXwoMD6jk1tC1JdmfAAclC7VHEViE0Ro="
+          "relative_path": "articles/item_management/gift_item_management.html",
+          "hash": "0Qm98UVmHEq8XzcZjmwFPEADtLno6uoh7h5snlvSfr8="
         }
       },
       "is_incremental": false,
@@ -153,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/label_printing/gift_label_printing.html",
-          "hash": "PNS4ILD3EfOkptFMj7zo3CbKvoC95JCsM2lE+zQNQ5M="
+          "hash": "jg7yXHfozzsOER6DkmaKA78eqK4qL0w3QUq3XZf5/OM="
         }
       },
       "is_incremental": false,
@@ -212,11 +212,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/loyalty_management/loyalty_managment.md",
+      "source_relative_path": "articles/loyalty_management/loyalty_management.md",
       "output": {
         ".html": {
-          "relative_path": "articles/loyalty_management/loyalty_managment.html",
-          "hash": "IbTk0F/EAmVMERs5thDMSPyFfzHtXj9kZPFGqlBEEZw="
+          "relative_path": "articles/loyalty_management/loyalty_management.html",
+          "hash": "IQHbM3GG02haHfM7YvpKDRIFCrfctY9zXw/qrv5Vf/k="
         }
       },
       "is_incremental": false,
@@ -235,15 +235,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "articles/loyalty_management/toc.md",
       "output": {
         ".html": {
           "relative_path": "articles/loyalty_management/toc.html",
-          "hash": "twCraoa8fbeFrnGRV17b6nifQwSPtnwDo5gmJcHoEoE="
+          "hash": "M5ID2dDBIyewt5mcBWzqbuj6CKQ/5XbREbi0Bdloh0c="
         }
       },
       "is_incremental": false,
@@ -291,7 +288,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/pos/pos.html",
-          "hash": "vX87umSMXeT4zJ9XODPtdfTwj5LNXTGxPfwW7S2XDHI="
+          "hash": "P90K2IPMhZ0bq+LyCIttGw2uIv4g7P/1KYxaLVQEjKo="
         }
       },
       "is_incremental": false,
@@ -351,7 +348,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/poslink/poslink.html",
-          "hash": "nxXghKFr9f/tDzbwCQGkAMJCoT6LRCEE4hV2FZsR5N8="
+          "hash": "bqb7OXPJpXydeRPy0i/dUcVf1KogMFE0jnS3b0rZiAc="
         }
       },
       "is_incremental": false,
@@ -410,26 +407,23 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/pricing_management/pricing_managment.md",
+      "source_relative_path": "articles/pricing_management/pricing_management.md",
       "output": {
         ".html": {
-          "relative_path": "articles/pricing_management/pricing_managment.html",
-          "hash": "pGsFkz1wNly7WUK6Jc6k+Tiy2jybHf0/J9AtO/vNOdA="
+          "relative_path": "articles/pricing_management/pricing_management.html",
+          "hash": "x/VIsKP0B5Gp8RvGSHQ8KdyRl4FSzrmUEetzHoMjmpc="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "articles/pricing_management/toc.md",
       "output": {
         ".html": {
           "relative_path": "articles/pricing_management/toc.html",
-          "hash": "zwGPigT4g0TOQ4cLzCBBO2/7dadeQd61uGdUjQHhvX4="
+          "hash": "YaFH3YGmSxiH6O8MyRmpoy8A8fbwqwLK0x0uFXkH7Lc="
         }
       },
       "is_incremental": false,
@@ -477,7 +471,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/scale/scale.html",
-          "hash": "K816yixQaofy/cpRRI5h019u/G7j5hcc+vizj6lJ1FE="
+          "hash": "Dfeee3tumzpUbztId+J6mrDABwEJHWgVMjCKFxZqDYg="
         }
       },
       "is_incremental": false,
@@ -537,7 +531,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/scheduler/scheduler.html",
-          "hash": "0NjKfvYtEAEGVWAOX3vAn3W9c5uUuNN5mC5O2+RdM6Y="
+          "hash": "dTEiNrqnZkm4kDp/hyrNDYppQ9Q/NKFo1+saw0JlFc0="
         }
       },
       "is_incremental": false,
@@ -593,26 +587,23 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/store_management/store_managment.md",
+      "source_relative_path": "articles/store_management/store_management.md",
       "output": {
         ".html": {
-          "relative_path": "articles/store_management/store_managment.html",
-          "hash": "Yjby0SQZZnnmerIgR/OXFZ4GMmRVhFIzFx2gSoQaV60="
+          "relative_path": "articles/store_management/store_management.html",
+          "hash": "k+xqvQiqehQ88JJomrQ6D6w2NLRuS3uHWmVPZiRaNEI="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "articles/store_management/toc.md",
       "output": {
         ".html": {
           "relative_path": "articles/store_management/toc.html",
-          "hash": "k+q5eCwLjV/duG6mTZLjToA1QNB3nzqiM3nqRA5xi0k="
+          "hash": "IPc+5jjJJCYkeQK8ABiDcDyKSgBsC8m4IlPWcRsvX40="
         }
       },
       "is_incremental": false,
@@ -691,15 +682,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "articles/tracking_management/toc.md",
       "output": {
         ".html": {
           "relative_path": "articles/tracking_management/toc.html",
-          "hash": "2zarQdj7pXS0fxG4r/CUUqLm8cZaZqM8FIhzAF7JNDA="
+          "hash": "GqJqgGLjx5Pv/TSsvNHFfLtvrCN42Y4egUYz/wd/1fA="
         }
       },
       "is_incremental": false,
@@ -707,11 +695,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/tracking_management/tracking_managment.md",
+      "source_relative_path": "articles/tracking_management/tracking_management.md",
       "output": {
         ".html": {
-          "relative_path": "articles/tracking_management/tracking_managment.html",
-          "hash": "4aNCRl3ncTPRz2E+S0acKcEAuXZOd/ejKE3dbtB7wxw="
+          "relative_path": "articles/tracking_management/tracking_management.html",
+          "hash": "kwdQx3ihGYfIxyRu9VGJqE4Tj6vCagJ0y31Oev9BoC8="
         }
       },
       "is_incremental": false,
@@ -757,7 +745,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "Pg7kw3eY7vVsi9unQ6OWuuQqXs48yeqqm21bV1+6zFM="
+          "hash": "KjzzZrS4TMZwLKfinQS17+lJeafBdj2kK3dNCBmPRVo="
         }
       },
       "is_incremental": false,

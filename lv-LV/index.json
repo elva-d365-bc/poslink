@@ -24,8 +24,8 @@
     "title": "BUJ | Latvian Localization",
     "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink Item Management, specifisks Lomu centrs nav nepieciešams."
   },
-  "articles/item_management/gift_item_managment.html": {
-    "href": "articles/item_management/gift_item_managment.html",
+  "articles/item_management/gift_item_management.html": {
+    "href": "articles/item_management/gift_item_management.html",
     "title": "Sākam lietot | Latvian Localization",
     "keywords": "Sākam lietot Priekšnosacījumi Uzstādījumi"
   },
@@ -64,8 +64,8 @@
     "title": "BUJ | Latvian Localization",
     "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink Loyalty Management, specifisks Lomu centrs nav nepieciešams."
   },
-  "articles/loyalty_management/loyalty_managment.html": {
-    "href": "articles/loyalty_management/loyalty_managment.html",
+  "articles/loyalty_management/loyalty_management.html": {
+    "href": "articles/loyalty_management/loyalty_management.html",
     "title": "Sākam lietot | Latvian Localization",
     "keywords": "Sākam lietot Priekšnosacījumi Uzstādījumi"
   },
@@ -129,8 +129,8 @@
     "title": "Pārskats | Latvian Localization",
     "keywords": "Pārskats ELVA POSLink Pricing Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Pricing Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
-  "articles/pricing_management/pricing_managment.html": {
-    "href": "articles/pricing_management/pricing_managment.html",
+  "articles/pricing_management/pricing_management.html": {
+    "href": "articles/pricing_management/pricing_management.html",
     "title": "Sākam lietot | Latvian Localization",
     "keywords": "Sākam lietot Priekšnosacījumi Uzstādījumi"
   },
@@ -189,8 +189,8 @@
     "title": "Pārskats | Latvian Localization",
     "keywords": "Pārskats ELVA POSLink Store Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Store Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
-  "articles/store_management/store_managment.html": {
-    "href": "articles/store_management/store_managment.html",
+  "articles/store_management/store_management.html": {
+    "href": "articles/store_management/store_management.html",
     "title": "Sākam lietot | Latvian Localization",
     "keywords": "Sākam lietot Priekšnosacījumi Uzstādījumi"
   },
@@ -219,8 +219,8 @@
     "title": "Pārskats | Latvian Localization",
     "keywords": "Pārskats ELVA POSLink Tracking Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Tracking Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
-  "articles/tracking_management/tracking_managment.html": {
-    "href": "articles/tracking_management/tracking_managment.html",
+  "articles/tracking_management/tracking_management.html": {
+    "href": "articles/tracking_management/tracking_management.html",
     "title": "Sākam lietot | Latvian Localization",
     "keywords": "Sākam lietot Priekšnosacījumi Uzstādījumi"
   },
@@ -232,7 +232,7 @@
   "index.html": {
     "href": "index.html",
     "title": "ELVA POSLink iekļauj sevī iekļauj sekojošus appus: | Latvian Localization",
-    "keywords": "ELVA POSLink iekļauj sevī iekļauj sekojošus appus: ELVA POSLink ELVA POSLink Store Management ELVA POSLink Item Management ELVA POSLink Pricing Management ELVA POSLink Loyalty Management ELVA POSLink Label Printing ELVA POSLink Gift Card Management ELVA POSLink POS ELVA POSLink Scale ELVA POSLink Scheduler ELVA POSLink Tracking Management LV"
+    "keywords": "ELVA POSLink iekļauj sevī iekļauj sekojošus appus: ELVA POSLink ELVA POSLink Store Management ELVA POSLink Item Management ELVA POSLink Pricing Management ELVA POSLink Loyalty Management ELVA POSLink Label Printing ELVA POSLink Gift Card Management ELVA POSLink POS ELVA POSLink Scale ELVA POSLink Scheduler ELVA POSLink Tracking Management EN"
   },
   "readme.html": {
     "href": "readme.html",
