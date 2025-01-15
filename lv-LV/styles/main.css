@@ -1,7 +1,7 @@
 body {
     font-family: arial;
-    font-size: 16px;
-    line-height: 1.5;
+    font-size: 15px;
+    line-height: normal;
     color: #34393E;
     /*background: url("./back_right.png") right bottom no-repeat fixed, url("back_left_bottom.png") left bottom no-repeat fixed;*/
 }
