@@ -86,11 +86,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/item_management/gift_item_management.md",
+      "source_relative_path": "articles/item_management/item_management.md",
       "output": {
         ".html": {
-          "relative_path": "articles/item_management/gift_item_management.html",
-          "hash": "42+za/RvF3qiSGN4IrIO+SbU8AlRFHsDE4/3iDMU484="
+          "relative_path": "articles/item_management/item_management.html",
+          "hash": "9EQ7oo3+79IDsfeLk2kwiVKa+D5qVGqfD8+kPHFYzIU="
         }
       },
       "is_incremental": false,
@@ -109,15 +109,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "articles/item_management/toc.md",
       "output": {
         ".html": {
           "relative_path": "articles/item_management/toc.html",
-          "hash": "0mB64zKIK4WEvI8U8l8ar1+WFcJoFBm6E0yXPHw/kyY="
+          "hash": "J48HDFyNKijB0F3lSRmJJZV/G4uzkOT4f5upXy97ai0="
         }
       },
       "is_incremental": false,
@@ -149,11 +146,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/label_printing/gift_label_printing.md",
+      "source_relative_path": "articles/label_printing/label_printing.md",
       "output": {
         ".html": {
-          "relative_path": "articles/label_printing/gift_label_printing.html",
-          "hash": "jRlNm57XASmghJuHYsFNgnlaBnWBC/FjECaShvr1NLM="
+          "relative_path": "articles/label_printing/label_printing.html",
+          "hash": "ihO1AiX8gMrR37nfQhEiCXK5hEvNqYjLzlSDT8Dr4CE="
         }
       },
       "is_incremental": false,
@@ -172,15 +169,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "articles/label_printing/toc.md",
       "output": {
         ".html": {
           "relative_path": "articles/label_printing/toc.html",
-          "hash": "/TFQHeUCTX5BuP0Bq77RgA39TIyUFtC/UA4swazwFQ8="
+          "hash": "XJc+ZaPT3+E4/Q19WZOcl7XHebkcNe2V+M33AKRrvuM="
         }
       },
       "is_incremental": false,

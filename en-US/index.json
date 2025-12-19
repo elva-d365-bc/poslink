@@ -24,8 +24,8 @@
     "title": "FAQ | POSLink",
     "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Item Management, no specific role center is required."
   },
-  "articles/item_management/gift_item_management.html": {
-    "href": "articles/item_management/gift_item_management.html",
+  "articles/item_management/item_management.html": {
+    "href": "articles/item_management/item_management.html",
     "title": "Get started | POSLink",
     "keywords": "Get started Pre-requisites Setup"
   },
@@ -44,8 +44,8 @@
     "title": "FAQ | POSLink",
     "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Label Printing, no specific role center is required."
   },
-  "articles/label_printing/gift_label_printing.html": {
-    "href": "articles/label_printing/gift_label_printing.html",
+  "articles/label_printing/label_printing.html": {
+    "href": "articles/label_printing/label_printing.html",
     "title": "Get started | POSLink",
     "keywords": "Get started Pre-requisites Setup"
   },
