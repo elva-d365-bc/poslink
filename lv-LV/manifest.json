@@ -86,11 +86,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/item_management/gift_item_management.md",
+      "source_relative_path": "articles/item_management/item_management.md",
       "output": {
         ".html": {
-          "relative_path": "articles/item_management/gift_item_management.html",
-          "hash": "Yo5el/5v5qcPzgqPU/4raiQwDAG1JjykrVDtVqmeAUo="
+          "relative_path": "articles/item_management/item_management.html",
+          "hash": "NpgpVc7xDFgeqBqi1hX37hxkUhOAXy0ff4Ayr16S9C0="
         }
       },
       "is_incremental": false,
@@ -109,15 +109,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "articles/item_management/toc.md",
       "output": {
         ".html": {
           "relative_path": "articles/item_management/toc.html",
-          "hash": "dENarX608wO4l6+VcUBYhV1EANtnvZPwCErX906uSek="
+          "hash": "Jz+kEuXU4ussVz3RqE3NuwG/tK2c6DNhhRYh55ktA0M="
         }
       },
       "is_incremental": false,
@@ -149,11 +146,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/label_printing/gift_label_printing.md",
+      "source_relative_path": "articles/label_printing/label_printing.md",
       "output": {
         ".html": {
-          "relative_path": "articles/label_printing/gift_label_printing.html",
-          "hash": "TMYppddpgs6plIaRwU12iBF1d0+cfpQ0uIBo+9InVOE="
+          "relative_path": "articles/label_printing/label_printing.html",
+          "hash": "x5jE93Z0cSh7zfaG+Uhi2ENf7apeL+iO8xUeC8X8dR4="
         }
       },
       "is_incremental": false,
@@ -172,15 +169,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "articles/label_printing/toc.md",
       "output": {
         ".html": {
           "relative_path": "articles/label_printing/toc.html",
-          "hash": "fZ1hHt6eXTXv7t2URIOqwwDz121y1LVt2GszTV6gE/c="
+          "hash": "HNmo7YVCazMxaXyv8hSNejb1mdHzi3/RSllupgN33fM="
         }
       },
       "is_incremental": false,

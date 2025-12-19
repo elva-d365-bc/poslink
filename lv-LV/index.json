@@ -24,8 +24,8 @@
     "title": "BUJ | POSLink",
     "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink Item Management, specifisks Lomu centrs nav nepieciešams."
   },
-  "articles/item_management/gift_item_management.html": {
-    "href": "articles/item_management/gift_item_management.html",
+  "articles/item_management/item_management.html": {
+    "href": "articles/item_management/item_management.html",
     "title": "Sākam lietot | POSLink",
     "keywords": "Sākam lietot Priekšnosacījumi Uzstādījumi"
   },
@@ -44,8 +44,8 @@
     "title": "BUJ | POSLink",
     "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink Label Printing, specifisks Lomu centrs nav nepieciešams."
   },
-  "articles/label_printing/gift_label_printing.html": {
-    "href": "articles/label_printing/gift_label_printing.html",
+  "articles/label_printing/label_printing.html": {
+    "href": "articles/label_printing/label_printing.html",
     "title": "Sākam lietot | POSLink",
     "keywords": "Sākam lietot Priekšnosacījumi Uzstādījumi"
   },
