@@ -14,11 +14,80 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/chdpos/chdpos.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/chdpos/chdpos.html",
+          "hash": "noqCWfA7hXaUh3smSTEv0Ltw7swALWDH6ja+iFrg/84="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "include-not-found"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/chdpos/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/chdpos/faq.html",
+          "hash": "BFSMwxOY/L/5wGsIM7q9ekswptvzV1MnAvG8D0ZCGrs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "include-not-found"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/chdpos/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/chdpos/overview.html",
+          "hash": "dhxIBAaZ+9zcezBup0heZGU0/bVbcK7HftzmFD0zW8Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/chdpos/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/chdpos/toc.html",
+          "hash": "mta8txTed4InAQFfBh6QBUhEv8sXFRsLTmcR2YCf4fc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "include-not-found"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/chdpos/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/chdpos/usage_scenarios.html",
+          "hash": "089DL+nga5yBuRtoGjualabfEyph5OD9YquHP/U+84U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/gift_card_management/faq.md",
       "output": {
         ".html": {
           "relative_path": "articles/gift_card_management/faq.html",
-          "hash": "bliYs2CPYflwlO/6BsRnWJ44ODVC68e5Wk/tHXBAkJI="
+          "hash": "O6ha9JWzjfnV9amxv6UkshlktsKQ6vzKlkaeJnKrbBQ="
         }
       },
       "is_incremental": false,
@@ -42,7 +111,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/gift_card_management/overview.html",
-          "hash": "v8q4pkxTAF7wt2XY4r9Fqz4WER1cA+lBnOXJFOiEXI4="
+          "hash": "Y2eAu0zaz16FFuSaG/afElPGCsYlDlMwXDCl86hD4cg="
         }
       },
       "is_incremental": false,
@@ -66,7 +135,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/gift_card_management/usage_scenarios.html",
-          "hash": "lU5Dvi79garipINkyLd10FO8dTnX21C0B+9hrlxO+dI="
+          "hash": "s+wOphnUrVkwesxVu4QGm9/1a6jILB5GMEDfxaQ3wxY="
         }
       },
       "is_incremental": false,
@@ -78,7 +147,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/item_management/faq.html",
-          "hash": "KJYtHIFmpENXX4S2cyAC+n3eQ9+AWegjB72bS1Ifq5k="
+          "hash": "1jyX+dTrplqwZPNQrYjVFyQFsFf1IBkGcHlkECNrDMY="
         }
       },
       "is_incremental": false,
@@ -102,7 +171,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/item_management/overview.html",
-          "hash": "tRdqOyJv1QvAPdQvaCmjbV1XxhYUfNemn95ZlMuLrBc="
+          "hash": "+ICUnq2KbOn473iJ7IMj81oB9DdKIdsyHvbeWmCQ2Jw="
         }
       },
       "is_incremental": false,
@@ -126,7 +195,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/item_management/usage_scenarios.html",
-          "hash": "ONgC5UAr2Py1BIqes1EfYRFDGCOIcs2jz4ZU132JRf4="
+          "hash": "VRW9KmU+GfatrHC9c3oRR8fVgLEtvr2WKZZVZPMOC/c="
         }
       },
       "is_incremental": false,
@@ -138,7 +207,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/label_printing/faq.html",
-          "hash": "lJXj6IkUSZ3ssByHNLPDHgjfj8V2r0737S9ZAg6uJRg="
+          "hash": "3REjjPglPxNizYvEGq9Cm5Rs86kOABZOLPPVkJnyNTg="
         }
       },
       "is_incremental": false,
@@ -162,7 +231,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/label_printing/overview.html",
-          "hash": "6ZlsnRm3tZKliC6mFpMTiERqWU36CBP31kiyVEVfyFU="
+          "hash": "XPaqvPoKLe8jtRgC5MbWayqthMzrOcfxWi9nXoKApoI="
         }
       },
       "is_incremental": false,
@@ -186,7 +255,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/label_printing/usage_scenarios.html",
-          "hash": "7dGPoiFFgArU6MYIXGqmLzx8FqMS9fNCj3tLxSIXwSU="
+          "hash": "GzZO3BdM+x+FF0SjJtwr7sVOHrKgNDRb79ZOHPBdhEo="
         }
       },
       "is_incremental": false,
@@ -198,7 +267,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/loyalty_management/faq.html",
-          "hash": "ErxtTdgTAXOqr+rY2fPzpbEhRY2bhJLJ2fKX4/ydWb0="
+          "hash": "1rrnagTQRSQQVYFqLVfJ5iRFjXLxGiIIEklOW40glLM="
         }
       },
       "is_incremental": false,
@@ -222,7 +291,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/loyalty_management/overview.html",
-          "hash": "wAdVdlI+4CnPgn2mCF+xF3vURq8wehAxbR2ic16NbS0="
+          "hash": "3h+czE6U2XdtQ3n03sk+1MdC/VpqPrIZnG7IIhrmv+E="
         }
       },
       "is_incremental": false,
@@ -246,7 +315,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/loyalty_management/usage_scenarios.html",
-          "hash": "aBbnfFBzsSU1B8j8CmWKbYe13tfWmlqbOXVEiIM65qw="
+          "hash": "No5Tqp0/6ubhkHwRzSi/yncWBrGyDQ+xVj+c0H4MnaI="
         }
       },
       "is_incremental": false,
@@ -258,7 +327,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/pos/faq.html",
-          "hash": "JoT9L6SyTKWqRoZs+GdaU3agMx9oATS6GkRPliRtuyM="
+          "hash": "2HmFJ0eioXUvHAMtjvi8hgWA5u4BPEhEqJXrMGrANBo="
         }
       },
       "is_incremental": false,
@@ -270,7 +339,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/pos/overview.html",
-          "hash": "7+6XDnlzTncSt0x5rsA9nF/noH9w8u3veDrJmeA0iMA="
+          "hash": "W6XxFGWAIpvxV0YknUlt2DCUAXRcn+7Iu1h5IOJwsOE="
         }
       },
       "is_incremental": false,
@@ -306,7 +375,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/pos/usage_scenarios.html",
-          "hash": "xCjLYCuqg9Tbm3Qd2OaV1eFylcF6gF/uC/8Z8jH7iw4="
+          "hash": "k2WWssXuJ7iFHNui369lAPTNR6ahk62NSxGuKSVDueQ="
         }
       },
       "is_incremental": false,
@@ -318,19 +387,23 @@
       "output": {
         ".html": {
           "relative_path": "articles/poslink/faq.html",
-          "hash": "lc1MTqKuDz+M4C1rvnu4O1EA8gtaMetrAbO+C/GneCw="
+          "hash": "YNqtfv4Jjwz03FU7nyxh2HcOwBRF+d6dCJtAjroX1WQ="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "include-not-found",
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "articles/poslink/overview.md",
       "output": {
         ".html": {
           "relative_path": "articles/poslink/overview.html",
-          "hash": "ag2WuE6GhMkEHtyf+evtPVKyei2tGseJ/B6LTadOkks="
+          "hash": "z8lou3UJ1DIrAh6cqqh8pyHRDYRyYuIBHDm24cR3Rss="
         }
       },
       "is_incremental": false,
@@ -366,7 +439,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/poslink/usage_scenarios.html",
-          "hash": "OSU44FesdBs5eBzLKuoGd2O0D4jBWH1Kf3uaDJRlfPI="
+          "hash": "U7dvt8PeosOEiUOndgWzuD2TS/x8nj2TEVnFtcYIHQo="
         }
       },
       "is_incremental": false,
@@ -393,7 +466,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/pricing_management/overview.html",
-          "hash": "Ul4KCyB5YJjqKIgwQzKx6VB0nNF+cT7qBbR4DlLj+cY="
+          "hash": "fFXZvj6cyjcGfknkBUQXoW7foI4o/jnvXI+IirhXi/c="
         }
       },
       "is_incremental": false,
@@ -429,7 +502,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/pricing_management/usage_scenarios.html",
-          "hash": "psRnlnXuErKIn/kpbiMHQugkd08fJS8BkIXNmWvDpQo="
+          "hash": "tqU/MsonsXafrGiDtXFhUYkDwaXZVyZwoc0AMobhd2Y="
         }
       },
       "is_incremental": false,
@@ -441,7 +514,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/scale/faq.html",
-          "hash": "+DBFysGuPIh1fozd+HWKTKces7gn1VarvH0DxU9mx20="
+          "hash": "TRM8oYXQlEh1yest4yn/e5UBz+GsvTBUDY7rvUKbiaQ="
         }
       },
       "is_incremental": false,
@@ -453,7 +526,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/scale/overview.html",
-          "hash": "tkYIpbhJHLjO22gyvq2YTV7inE8R3uhtpJ0U+3fu7tU="
+          "hash": "n6Mng0K9NcVzTHYG6WSrV3nko03/5NGDOZHFUYZQxMU="
         }
       },
       "is_incremental": false,
@@ -489,67 +562,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/scale/usage_scenarios.html",
-          "hash": "VDbKOtPZ0q5j9r1pKbDiL+rcZAYntG7rpnRwwGTGp20="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/scheduler/faq.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/scheduler/faq.html",
-          "hash": "BozbWZO9paShC71YAo/2RH4DPn5w0yG466Mi8JLhuGE="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/scheduler/overview.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/scheduler/overview.html",
-          "hash": "k9SOI8poJ8huqZLKWFuBW3WcQJug2Ii2kpIMtbMIRKQ="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/scheduler/scheduler.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/scheduler/scheduler.html",
-          "hash": "9YhhS8dUyQ+f6aQAvWrGO1vTiQ4xYJGysgsw2WXP4oE="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "articles/scheduler/toc.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/scheduler/toc.html",
-          "hash": "fASls4kosX/XMzVWA6Ricpjw/RVWNGh1m0cga5m6iEs="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/scheduler/usage_scenarios.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/scheduler/usage_scenarios.html",
-          "hash": "u1XdcwrOnbbjhhbriOfE+rtdue7QVwdbddYA1Bp+DKw="
+          "hash": "QOFDd2RNxeaGtkA2faAAEUzYukGUnOGCW5SpGgAmHZc="
         }
       },
       "is_incremental": false,
@@ -561,7 +574,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/store_management/faq.html",
-          "hash": "Wj5wYRIxBjBm3BMnzqmnd5u1cOmYKLlCtduMYHPKd+k="
+          "hash": "cMxeyHhw/G6ZRDy+F5s4jGXRFUEorOANnRlHQaWJu5U="
         }
       },
       "is_incremental": false,
@@ -573,7 +586,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/store_management/overview.html",
-          "hash": "00wbzO4ShSJrXN+w58cDm/XlnY4dsimlPcsHctBA0VI="
+          "hash": "dbFLogspcFxqz3ejIojwDHz93JjYP/zdgKbIRMlkOms="
         }
       },
       "is_incremental": false,
@@ -609,7 +622,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/store_management/usage_scenarios.html",
-          "hash": "KyavwtaKrAeNMVckwgRaElNVdHGWDXsd/1Oh2adwt7A="
+          "hash": "zbhKaPGeMIcwyz/BfxXry6BJ18esbuA1ooseu++bt50="
         }
       },
       "is_incremental": false,
@@ -657,7 +670,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/tracking_management/faq.html",
-          "hash": "4iaZgGdpY9cWnH1P7hZp3dIc+ycfggOxOp6/lviB8dA="
+          "hash": "UqoaTrCPKSO1pF4saCDnGRnNPFAK4n/ktLzAq126sZ4="
         }
       },
       "is_incremental": false,
@@ -669,7 +682,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/tracking_management/overview.html",
-          "hash": "MxezFdTb/7ZxdP20kMIOJ+Mj4mqKfuPB2HFMsGKAIRs="
+          "hash": "vQypYAPI23IGcz2i4YM8756998WC61u9hM1xAzBLH3w="
         }
       },
       "is_incremental": false,
@@ -705,7 +718,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/tracking_management/usage_scenarios.html",
-          "hash": "nLM7S1MAQ5SYQRkKXfbU0HK961djLEzuW2zpW8E4gRs="
+          "hash": "eIycOemceWX5uNy1zbAL58QwMUVgZwIIUoowjwRiLe8="
         }
       },
       "is_incremental": false,
@@ -734,12 +747,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "include-not-found"
+      ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "2NUuZTsH4kzGV0yE4hdEDIJy1LYHdIkbOrrjH1AmZGM="
+          "hash": "UBOW62QI2fexdxEYjFk8EkBFPj9EBrdySerNDX7A2G4="
         }
       },
       "is_incremental": false,
@@ -751,7 +767,7 @@
       "output": {
         ".html": {
           "relative_path": "readme.html",
-          "hash": "Gkv97man59M1qlgbpmZqnSlexFCWHMGuQWvBTHL9ERk="
+          "hash": "MF33vH+uNM7eYzBaS2AcorM6eXHJGa6XZvR6XoqizZ4="
         }
       },
       "is_incremental": false,
@@ -763,7 +779,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "1T3YUoZ2Lajj0yC3DS3R19E5YJ7ClSGuXi/FzS+/cUM="
+          "hash": "wUc0yf8WN/8tra9PL+P8qsouShIpffvUcCuuFXZ2w+Q="
         }
       },
       "is_incremental": false,

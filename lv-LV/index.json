@@ -1,8 +1,28 @@
 {
+  "articles/chdpos/chdpos.html": {
+    "href": "articles/chdpos/chdpos.html",
+    "title": "Sākam lietot | POSLink",
+    "keywords": "Sākam lietot Priekšnosacījumi Uzstādījumi"
+  },
+  "articles/chdpos/faq.html": {
+    "href": "articles/chdpos/faq.html",
+    "title": "BUJ | POSLink",
+    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot [!include[nav_name](../includes/app_chdpos.md)], specifisks Lomu centrs nav nepieciešams."
+  },
+  "articles/chdpos/overview.html": {
+    "href": "articles/chdpos/overview.html",
+    "title": "Pārskats | POSLink",
+    "keywords": "Pārskats [!include[nav_name](../includes/app_chdpos.md)] ir biznesa programmatūras risinājums, kas izstrādāts ELVA. [!include[nav_name](../includes/app_chdpos.md)] ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+  },
+  "articles/chdpos/usage_scenarios.html": {
+    "href": "articles/chdpos/usage_scenarios.html",
+    "title": "Lietošanas scenāriji | POSLink",
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt [!include[nav_name](../includes/app_chdpos.md)]"
+  },
   "articles/gift_card_management/faq.html": {
     "href": "articles/gift_card_management/faq.html",
     "title": "BUJ | POSLink",
-    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink Gift Card Management, specifisks Lomu centrs nav nepieciešams."
+    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot POS Retail Connect Gift Card Management, specifisks Lomu centrs nav nepieciešams."
   },
   "articles/gift_card_management/gift_card_management.html": {
     "href": "articles/gift_card_management/gift_card_management.html",
@@ -12,17 +32,17 @@
   "articles/gift_card_management/overview.html": {
     "href": "articles/gift_card_management/overview.html",
     "title": "Pārskats | POSLink",
-    "keywords": "Pārskats ELVA POSLink Gift Card Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Gift Card Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats POS Retail Connect Gift Card Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. POS Retail Connect Gift Card Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/gift_card_management/usage_scenarios.html": {
     "href": "articles/gift_card_management/usage_scenarios.html",
     "title": "Lietošanas scenāriji | POSLink",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt ELVA POSLink Gift Card Management"
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt POS Retail Connect Gift Card Management"
   },
   "articles/item_management/faq.html": {
     "href": "articles/item_management/faq.html",
     "title": "BUJ | POSLink",
-    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink Item Management, specifisks Lomu centrs nav nepieciešams."
+    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot POS Retail Connect Item Management, specifisks Lomu centrs nav nepieciešams."
   },
   "articles/item_management/item_management.html": {
     "href": "articles/item_management/item_management.html",
@@ -32,17 +52,17 @@
   "articles/item_management/overview.html": {
     "href": "articles/item_management/overview.html",
     "title": "Pārskats | POSLink",
-    "keywords": "Pārskats ELVA POSLink Item Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Item Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats POS Retail Connect Item Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. POS Retail Connect Item Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/item_management/usage_scenarios.html": {
     "href": "articles/item_management/usage_scenarios.html",
     "title": "Lietošanas scenāriji | POSLink",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt ELVA POSLink Item Management"
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt POS Retail Connect Item Management"
   },
   "articles/label_printing/faq.html": {
     "href": "articles/label_printing/faq.html",
     "title": "BUJ | POSLink",
-    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink Label Printing, specifisks Lomu centrs nav nepieciešams."
+    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot POS Retail Connect Label Printing, specifisks Lomu centrs nav nepieciešams."
   },
   "articles/label_printing/label_printing.html": {
     "href": "articles/label_printing/label_printing.html",
@@ -52,17 +72,17 @@
   "articles/label_printing/overview.html": {
     "href": "articles/label_printing/overview.html",
     "title": "Pārskats | POSLink",
-    "keywords": "Pārskats ELVA POSLink Label Printing ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Label Printing ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats POS Retail Connect Label Printing ir biznesa programmatūras risinājums, kas izstrādāts ELVA. POS Retail Connect Label Printing ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/label_printing/usage_scenarios.html": {
     "href": "articles/label_printing/usage_scenarios.html",
     "title": "Lietošanas scenāriji | POSLink",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt ELVA POSLink Label Printing"
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt POS Retail Connect Label Printing"
   },
   "articles/loyalty_management/faq.html": {
     "href": "articles/loyalty_management/faq.html",
     "title": "BUJ | POSLink",
-    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink Loyalty Management, specifisks Lomu centrs nav nepieciešams."
+    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot POS Retail Connect Loyalty Management, specifisks Lomu centrs nav nepieciešams."
   },
   "articles/loyalty_management/loyalty_management.html": {
     "href": "articles/loyalty_management/loyalty_management.html",
@@ -72,22 +92,22 @@
   "articles/loyalty_management/overview.html": {
     "href": "articles/loyalty_management/overview.html",
     "title": "Pārskats | POSLink",
-    "keywords": "Pārskats ELVA POSLink Loyalty Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Loyalty Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats POS Retail Connect Loyalty Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. POS Retail Connect Loyalty Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/loyalty_management/usage_scenarios.html": {
     "href": "articles/loyalty_management/usage_scenarios.html",
     "title": "Lietošanas scenāriji | POSLink",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt ELVA POSLink Loyalty Management"
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt POS Retail Connect Loyalty Management"
   },
   "articles/pos/faq.html": {
     "href": "articles/pos/faq.html",
     "title": "BUJ | POSLink",
-    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink POS, specifisks Lomu centrs nav nepieciešams."
+    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot POS Retail Connect POS, specifisks Lomu centrs nav nepieciešams."
   },
   "articles/pos/overview.html": {
     "href": "articles/pos/overview.html",
     "title": "Pārskats | POSLink",
-    "keywords": "Pārskats ELVA POSLink POS ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink POS ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats POS Retail Connect POS ir biznesa programmatūras risinājums, kas izstrādāts ELVA. POS Retail Connect POS ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/pos/pos.html": {
     "href": "articles/pos/pos.html",
@@ -97,17 +117,17 @@
   "articles/pos/usage_scenarios.html": {
     "href": "articles/pos/usage_scenarios.html",
     "title": "Lietošanas scenāriji | POSLink",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt ELVA POSLink POS"
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt POS Retail Connect POS"
   },
   "articles/poslink/faq.html": {
     "href": "articles/poslink/faq.html",
     "title": "BUJ | POSLink",
-    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink, specifisks Lomu centrs nav nepieciešams."
+    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot POS Retail Connect, specifisks Lomu centrs nav nepieciešams."
   },
   "articles/poslink/overview.html": {
     "href": "articles/poslink/overview.html",
     "title": "Pārskats | POSLink",
-    "keywords": "Pārskats ELVA POSLink ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats POS Retail Connect ir biznesa programmatūras risinājums, kas izstrādāts ELVA. POS Retail Connect ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām. [!include[app_poslink](articles/includes/app_poslink.md)] iekļauj sevī iekļauj sekojošus appus: [!include[app_store_management](articles/includes/app_store_management.md)] [!include[app_item_management](articles/includes/app_item_management.md)] [!include[app_pricing_management](articles/includes/app_pricing_management.md)] [!include[app_loyalty_management](articles/includes/app_loyalty_management.md)] [!include[app_label_printing](articles/includes/app_label_printing.md)] [!include[app_gift_card_management](articles/includes/app_gift_card_management.md)] [!include[app_pos](articles/includes/app_pos.md)] [!include[app_chdpos](articles/includes/app_chdpos.md)] [!include[app_scale](articles/includes/app_scale.md)] [!include[app_tracking_management](articles/includes/app_tracking_management.md)] EN"
   },
   "articles/poslink/poslink.html": {
     "href": "articles/poslink/poslink.html",
@@ -117,7 +137,7 @@
   "articles/poslink/usage_scenarios.html": {
     "href": "articles/poslink/usage_scenarios.html",
     "title": "Lietošanas scenāriji | POSLink",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt ELVA POSLink POS"
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt POS Retail Connect"
   },
   "articles/pricing_management/faq.html": {
     "href": "articles/pricing_management/faq.html",
@@ -127,7 +147,7 @@
   "articles/pricing_management/overview.html": {
     "href": "articles/pricing_management/overview.html",
     "title": "Pārskats | POSLink",
-    "keywords": "Pārskats ELVA POSLink Pricing Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Pricing Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats POS Retail Connect Pricing Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. POS Retail Connect Pricing Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/pricing_management/pricing_management.html": {
     "href": "articles/pricing_management/pricing_management.html",
@@ -137,17 +157,17 @@
   "articles/pricing_management/usage_scenarios.html": {
     "href": "articles/pricing_management/usage_scenarios.html",
     "title": "Lietošanas scenāriji | POSLink",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt ELVA POSLink Pricing Management"
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt POS Retail Connect Pricing Management"
   },
   "articles/scale/faq.html": {
     "href": "articles/scale/faq.html",
     "title": "BUJ | POSLink",
-    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink Scale, specifisks Lomu centrs nav nepieciešams."
+    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot POS Retail Connect Scale, specifisks Lomu centrs nav nepieciešams."
   },
   "articles/scale/overview.html": {
     "href": "articles/scale/overview.html",
     "title": "Pārskats | POSLink",
-    "keywords": "Pārskats ELVA POSLink Scale ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Scale ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats POS Retail Connect Scale ir biznesa programmatūras risinājums, kas izstrādāts ELVA. POS Retail Connect Scale ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/scale/scale.html": {
     "href": "articles/scale/scale.html",
@@ -157,37 +177,17 @@
   "articles/scale/usage_scenarios.html": {
     "href": "articles/scale/usage_scenarios.html",
     "title": "Lietošanas scenāriji | POSLink",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt ELVA POSLink Scale"
-  },
-  "articles/scheduler/faq.html": {
-    "href": "articles/scheduler/faq.html",
-    "title": "BUJ | POSLink",
-    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink Scheduler, specifisks Lomu centrs nav nepieciešams."
-  },
-  "articles/scheduler/overview.html": {
-    "href": "articles/scheduler/overview.html",
-    "title": "Pārskats | POSLink",
-    "keywords": "Pārskats ELVA POSLink Scheduler ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Scheduler ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
-  },
-  "articles/scheduler/scheduler.html": {
-    "href": "articles/scheduler/scheduler.html",
-    "title": "Sākam lietot | POSLink",
-    "keywords": "Sākam lietot Priekšnosacījumi Uzstādījumi"
-  },
-  "articles/scheduler/usage_scenarios.html": {
-    "href": "articles/scheduler/usage_scenarios.html",
-    "title": "Lietošanas scenāriji | POSLink",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt ELVA POSLink Scheduler"
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt POS Retail Connect Scale"
   },
   "articles/store_management/faq.html": {
     "href": "articles/store_management/faq.html",
     "title": "BUJ | POSLink",
-    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink Store Management, specifisks Lomu centrs nav nepieciešams."
+    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot POS Retail Connect Store Management, specifisks Lomu centrs nav nepieciešams."
   },
   "articles/store_management/overview.html": {
     "href": "articles/store_management/overview.html",
     "title": "Pārskats | POSLink",
-    "keywords": "Pārskats ELVA POSLink Store Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Store Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats POS Retail Connect Store Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. POS Retail Connect Store Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/store_management/store_management.html": {
     "href": "articles/store_management/store_management.html",
@@ -197,7 +197,7 @@
   "articles/store_management/usage_scenarios.html": {
     "href": "articles/store_management/usage_scenarios.html",
     "title": "Lietošanas scenāriji | POSLink",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt ELVA POSLink Store Management"
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt POS Retail Connect Store Management"
   },
   "articles/support/customer_terms.html": {
     "href": "articles/support/customer_terms.html",
@@ -212,12 +212,12 @@
   "articles/tracking_management/faq.html": {
     "href": "articles/tracking_management/faq.html",
     "title": "BUJ | POSLink",
-    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot ELVA POSLink Tracking Management, specifisks Lomu centrs nav nepieciešams."
+    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot POS Retail Connect Tracking Management, specifisks Lomu centrs nav nepieciešams."
   },
   "articles/tracking_management/overview.html": {
     "href": "articles/tracking_management/overview.html",
     "title": "Pārskats | POSLink",
-    "keywords": "Pārskats ELVA POSLink Tracking Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. ELVA POSLink Tracking Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats POS Retail Connect Tracking Management ir biznesa programmatūras risinājums, kas izstrādāts ELVA. POS Retail Connect Tracking Management ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/tracking_management/tracking_management.html": {
     "href": "articles/tracking_management/tracking_management.html",
@@ -227,16 +227,16 @@
   "articles/tracking_management/usage_scenarios.html": {
     "href": "articles/tracking_management/usage_scenarios.html",
     "title": "Lietošanas scenāriji | POSLink",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt ELVA POSLink Tracking Management"
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt POS Retail Connect Tracking Management"
   },
   "index.html": {
     "href": "index.html",
-    "title": "ELVA POSLink iekļauj sevī iekļauj sekojošus appus: | POSLink",
-    "keywords": "ELVA POSLink iekļauj sevī iekļauj sekojošus appus: ELVA POSLink ELVA POSLink Store Management ELVA POSLink Item Management ELVA POSLink Pricing Management ELVA POSLink Loyalty Management ELVA POSLink Label Printing ELVA POSLink Gift Card Management ELVA POSLink POS ELVA POSLink Scale ELVA POSLink Scheduler ELVA POSLink Tracking Management EN"
+    "title": "POS Retail Connect iekļauj sevī iekļauj sekojošus appus: | POSLink",
+    "keywords": "POS Retail Connect iekļauj sevī iekļauj sekojošus appus: POS Retail Connect POS Retail Connect Store Management POS Retail Connect Item Management POS Retail Connect Pricing Management POS Retail Connect Loyalty Management POS Retail Connect Label Printing POS Retail Connect Gift Card Management POS Retail Connect POS [!include[app_chdpos](articles/includes/app_chdpos.md)] POS Retail Connect Scale POS Retail Connect Tracking Management EN"
   },
   "readme.html": {
     "href": "readme.html",
-    "title": "[ELVA POSLink] Help pages for Microsoft Dynamics 365 Business Central | POSLink",
-    "keywords": "[ELVA POSLink] Help pages for Microsoft Dynamics 365 Business Central This help is hosted on GitHub pages at address: https://elva-d365-bc.github.io/poslink Project is based on DocFX solution Considerations File naming: All file names must be in lowercase, contains only alpha numeric symbols File names must not contain national characters or space Folder structure: Root folder contains some config files for DocFx Folder /images contains images used by all apps help Folder /templates contains DocxFx templates for generating site and pdf files Folder /articles contains all help files Each app has separate subfolder under /articles poslink store_management item_management pricing_management loyalty_management label_printing gift_card_management pos scale scheduler Folder /articles/support contains support files, such as customer terms and license agreement Each app folder should contain file toc.md with table of content and folder images, where should place images specific for this app help. Installation To update and run site generated for this help You should install following components: Visual Studio Code Doc FX compiler Add path to DocFx folder to user environment variable Path Git VCS If it not installed to default path (Program Files...) You should specify path to git.exe in VSCode settings file, for example: \"git.path\": \"d:/apps/git/bin/git.exe\" Useful links: Mark down syntax Word to Markdown Convertor RGB to HEX color convertor Spell checking To enable English spell checking install spell checker VS extension SpellRight and select language in right bottom corner of VSCode. Images To include image in md file You should use link of following format: ![alt](images/image_file_name.png) Includes Folder /articles/includes contains md files with reusable text. Each file should contain one line text, that can be used many times in different md files. To use include text in md files file use link of following format: [!INCLUDE[nav_name](./articles/includes/incl_name.md)] Where path to include file should be relative to current md file. Note (Warning/Tip/Important) You can use specially formatted blocks to pay user attention. These blocks format is following > [!NOTE] > Some note content that shoul be formatted as note > and the second line of note Will formatted in following way: Note Some note content that should be formatted as note and the second line of note In place of NOTE you can use also following keywords: TIP WARNING IMPORTANT CAUTION Tables Tables also can be formatted: | Tables | Are | Cool | | ------------- | :-----------: | ----: | | col 3 is | right-aligned | $1600 | | col 2 is | centered | $12 | | zebra stripes | are neat | $1 | Tables Are Cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1"
+    "title": "[POS Retail Connect] Help pages for Microsoft Dynamics 365 Business Central | POSLink",
+    "keywords": "[POS Retail Connect] Help pages for Microsoft Dynamics 365 Business Central This help is hosted on GitHub pages at address: https://elva-d365-bc.github.io/poslink Project is based on DocFX solution Considerations File naming: All file names must be in lowercase, contains only alpha numeric symbols File names must not contain national characters or space Folder structure: Root folder contains some config files for DocFx Folder /images contains images used by all apps help Folder /templates contains DocxFx templates for generating site and pdf files Folder /articles contains all help files Each app has separate subfolder under /articles poslink store_management item_management pricing_management loyalty_management label_printing gift_card_management pos scale scheduler Folder /articles/support contains support files, such as customer terms and license agreement Each app folder should contain file toc.md with table of content and folder images, where should place images specific for this app help. Installation To update and run site generated for this help You should install following components: Visual Studio Code Doc FX compiler Add path to DocFx folder to user environment variable Path Git VCS If it not installed to default path (Program Files...) You should specify path to git.exe in VSCode settings file, for example: \"git.path\": \"d:/apps/git/bin/git.exe\" Useful links: Mark down syntax Word to Markdown Convertor RGB to HEX color convertor Spell checking To enable English spell checking install spell checker VS extension SpellRight and select language in right bottom corner of VSCode. Images To include image in md file You should use link of following format: ![alt](images/image_file_name.png) Includes Folder /articles/includes contains md files with reusable text. Each file should contain one line text, that can be used many times in different md files. To use include text in md files file use link of following format: [!INCLUDE[nav_name](./articles/includes/incl_name.md)] Where path to include file should be relative to current md file. Note (Warning/Tip/Important) You can use specially formatted blocks to pay user attention. These blocks format is following > [!NOTE] > Some note content that shoul be formatted as note > and the second line of note Will formatted in following way: Note Some note content that should be formatted as note and the second line of note In place of NOTE you can use also following keywords: TIP WARNING IMPORTANT CAUTION Tables Tables also can be formatted: | Tables | Are | Cool | | ------------- | :-----------: | ----: | | col 3 is | right-aligned | $1600 | | col 2 is | centered | $12 | | zebra stripes | are neat | $1 | Tables Are Cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1"
   }
 }
