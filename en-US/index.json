@@ -1,8 +1,28 @@
 {
+  "articles/chdpos/chdpos.html": {
+    "href": "articles/chdpos/chdpos.html",
+    "title": "Get started | POSLink",
+    "keywords": "Get started Pre-requisites Setup"
+  },
+  "articles/chdpos/faq.html": {
+    "href": "articles/chdpos/faq.html",
+    "title": "FAQ | POSLink",
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use POS Retail CHDPOS Connector, no specific role center is required."
+  },
+  "articles/chdpos/overview.html": {
+    "href": "articles/chdpos/overview.html",
+    "title": "Overview | POSLink",
+    "keywords": "Overview POS Retail CHDPOS Connector is a business software solution developed by ELVA. POS Retail CHDPOS Connector is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+  },
+  "articles/chdpos/usage_scenarios.html": {
+    "href": "articles/chdpos/usage_scenarios.html",
+    "title": "Key Usage Scenarios | POSLink",
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up POS Retail CHDPOS Connector"
+  },
   "articles/gift_card_management/faq.html": {
     "href": "articles/gift_card_management/faq.html",
     "title": "FAQ | POSLink",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Gift Card Management, no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use POS Retail Connect Gift Card Management, no specific role center is required."
   },
   "articles/gift_card_management/gift_card_management.html": {
     "href": "articles/gift_card_management/gift_card_management.html",
@@ -12,17 +32,17 @@
   "articles/gift_card_management/overview.html": {
     "href": "articles/gift_card_management/overview.html",
     "title": "Overview | POSLink",
-    "keywords": "Overview ELVA POSLink Gift Card Management is a business software solution developed by ELVA. ELVA POSLink Gift Card Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview POS Retail Connect Gift Card Management is a business software solution developed by ELVA. POS Retail Connect Gift Card Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/gift_card_management/usage_scenarios.html": {
     "href": "articles/gift_card_management/usage_scenarios.html",
     "title": "Key Usage Scenarios | POSLink",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Gift Card Management"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up POS Retail Connect Gift Card Management"
   },
   "articles/item_management/faq.html": {
     "href": "articles/item_management/faq.html",
     "title": "FAQ | POSLink",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Item Management, no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use POS Retail Connect Item Management, no specific role center is required."
   },
   "articles/item_management/item_management.html": {
     "href": "articles/item_management/item_management.html",
@@ -32,17 +52,17 @@
   "articles/item_management/overview.html": {
     "href": "articles/item_management/overview.html",
     "title": "Overview | POSLink",
-    "keywords": "Overview ELVA POSLink Item Management is a business software solution developed by ELVA. ELVA POSLink Item Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview POS Retail Connect Item Management is a business software solution developed by ELVA. POS Retail Connect Item Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/item_management/usage_scenarios.html": {
     "href": "articles/item_management/usage_scenarios.html",
     "title": "Key Usage Scenarios | POSLink",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Item Management"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up POS Retail Connect Item Management"
   },
   "articles/label_printing/faq.html": {
     "href": "articles/label_printing/faq.html",
     "title": "FAQ | POSLink",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Label Printing, no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use POS Retail Connect Label Printing, no specific role center is required."
   },
   "articles/label_printing/label_printing.html": {
     "href": "articles/label_printing/label_printing.html",
@@ -52,17 +72,17 @@
   "articles/label_printing/overview.html": {
     "href": "articles/label_printing/overview.html",
     "title": "Overview | POSLink",
-    "keywords": "Overview ELVA POSLink Label Printing is a business software solution developed by ELVA. ELVA POSLink Label Printing is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview POS Retail Connect Label Printing is a business software solution developed by ELVA. POS Retail Connect Label Printing is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/label_printing/usage_scenarios.html": {
     "href": "articles/label_printing/usage_scenarios.html",
     "title": "Key Usage Scenarios | POSLink",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Label Printing"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up POS Retail Connect Label Printing"
   },
   "articles/loyalty_management/faq.html": {
     "href": "articles/loyalty_management/faq.html",
     "title": "FAQ | POSLink",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Loyalty Management, no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use POS Retail Connect Loyalty Management, no specific role center is required."
   },
   "articles/loyalty_management/loyalty_management.html": {
     "href": "articles/loyalty_management/loyalty_management.html",
@@ -72,22 +92,22 @@
   "articles/loyalty_management/overview.html": {
     "href": "articles/loyalty_management/overview.html",
     "title": "Overview | POSLink",
-    "keywords": "Overview ELVA POSLink Loyalty Management is a business software solution developed by ELVA. ELVA POSLink Loyalty Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview POS Retail Connect Loyalty Management is a business software solution developed by ELVA. POS Retail Connect Loyalty Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/loyalty_management/usage_scenarios.html": {
     "href": "articles/loyalty_management/usage_scenarios.html",
     "title": "Key Usage Scenarios | POSLink",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Loyalty Management"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up POS Retail Connect Loyalty Management"
   },
   "articles/pos/faq.html": {
     "href": "articles/pos/faq.html",
     "title": "FAQ | POSLink",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink POS, no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use POS Retail Connect POS, no specific role center is required."
   },
   "articles/pos/overview.html": {
     "href": "articles/pos/overview.html",
     "title": "Overview | POSLink",
-    "keywords": "Overview ELVA POSLink POS is a business software solution developed by ELVA. ELVA POSLink POS is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview POS Retail Connect POS is a business software solution developed by ELVA. POS Retail Connect POS is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/pos/pos.html": {
     "href": "articles/pos/pos.html",
@@ -97,17 +117,17 @@
   "articles/pos/usage_scenarios.html": {
     "href": "articles/pos/usage_scenarios.html",
     "title": "Key Usage Scenarios | POSLink",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink POS"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up POS Retail Connect POS"
   },
   "articles/poslink/faq.html": {
     "href": "articles/poslink/faq.html",
     "title": "FAQ | POSLink",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink, no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use POS Retail Connect, no specific role center is required."
   },
   "articles/poslink/overview.html": {
     "href": "articles/poslink/overview.html",
     "title": "Overview | POSLink",
-    "keywords": "Overview ELVA POSLink is a business software solution developed by ELVA. ELVA POSLink is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview POS Retail Connect is a business software solution developed by ELVA. POS Retail Connect is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements. [!include[app_poslink](articles/includes/app_poslink.md)] contains following apps: [!include[app_store_management](articles/includes/app_store_management.md)] [!include[app_item_management](articles/includes/app_item_management.md)] [!include[app_pricing_management](articles/includes/app_pricing_management.md)] [!include[app_loyalty_management](articles/includes/app_loyalty_management.md)] [!include[app_label_printing](articles/includes/app_label_printing.md)] [!include[app_gift_card_management](articles/includes/app_gift_card_management.md)] [!include[app_pos](articles/includes/app_pos.md)] [!include[app_chdpos](articles/includes/app_chdpos.md)] [!include[app_scale](articles/includes/app_scale.md)] [!include[app_tracking_management](articles/includes/app_tracking_management.md)] LV"
   },
   "articles/poslink/poslink.html": {
     "href": "articles/poslink/poslink.html",
@@ -117,17 +137,17 @@
   "articles/poslink/usage_scenarios.html": {
     "href": "articles/poslink/usage_scenarios.html",
     "title": "Key Usage Scenarios | POSLink",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink POS"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up POS Retail Connect"
   },
   "articles/pricing_management/faq.html": {
     "href": "articles/pricing_management/faq.html",
     "title": "FAQ | POSLink",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Pricing Management, no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use POS Retail Connect Pricing Management, no specific role center is required."
   },
   "articles/pricing_management/overview.html": {
     "href": "articles/pricing_management/overview.html",
     "title": "Overview | POSLink",
-    "keywords": "Overview ELVA POSLink Pricing Management is a business software solution developed by ELVA. ELVA POSLink Pricing Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview POS Retail Connect Pricing Management is a business software solution developed by ELVA. POS Retail Connect Pricing Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/pricing_management/pricing_management.html": {
     "href": "articles/pricing_management/pricing_management.html",
@@ -137,17 +157,17 @@
   "articles/pricing_management/usage_scenarios.html": {
     "href": "articles/pricing_management/usage_scenarios.html",
     "title": "Key Usage Scenarios | POSLink",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Pricing Management"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up POS Retail Connect Pricing Management"
   },
   "articles/scale/faq.html": {
     "href": "articles/scale/faq.html",
     "title": "FAQ | POSLink",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Scale, no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use POS Retail Connect Scale, no specific role center is required."
   },
   "articles/scale/overview.html": {
     "href": "articles/scale/overview.html",
     "title": "Overview | POSLink",
-    "keywords": "Overview ELVA POSLink Scale is a business software solution developed by ELVA. ELVA POSLink Scale is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview POS Retail Connect Scale is a business software solution developed by ELVA. POS Retail Connect Scale is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/scale/scale.html": {
     "href": "articles/scale/scale.html",
@@ -157,37 +177,17 @@
   "articles/scale/usage_scenarios.html": {
     "href": "articles/scale/usage_scenarios.html",
     "title": "Key Usage Scenarios | POSLink",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Scale"
-  },
-  "articles/scheduler/faq.html": {
-    "href": "articles/scheduler/faq.html",
-    "title": "FAQ | POSLink",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Scheduler, no specific role center is required."
-  },
-  "articles/scheduler/overview.html": {
-    "href": "articles/scheduler/overview.html",
-    "title": "Overview | POSLink",
-    "keywords": "Overview ELVA POSLink Scheduler is a business software solution developed by ELVA. ELVA POSLink Scheduler is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
-  },
-  "articles/scheduler/scheduler.html": {
-    "href": "articles/scheduler/scheduler.html",
-    "title": "Get started | POSLink",
-    "keywords": "Get started Pre-requisites Setup"
-  },
-  "articles/scheduler/usage_scenarios.html": {
-    "href": "articles/scheduler/usage_scenarios.html",
-    "title": "Key Usage Scenarios | POSLink",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Scheduler"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up POS Retail Connect Scale"
   },
   "articles/store_management/faq.html": {
     "href": "articles/store_management/faq.html",
     "title": "FAQ | POSLink",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Store Management, no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use POS Retail Connect Store Management, no specific role center is required."
   },
   "articles/store_management/overview.html": {
     "href": "articles/store_management/overview.html",
     "title": "Overview | POSLink",
-    "keywords": "Overview ELVA POSLink Store Management is a business software solution developed by ELVA. ELVA POSLink Store Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview POS Retail Connect Store Management is a business software solution developed by ELVA. POS Retail Connect Store Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/store_management/store_management.html": {
     "href": "articles/store_management/store_management.html",
@@ -197,7 +197,7 @@
   "articles/store_management/usage_scenarios.html": {
     "href": "articles/store_management/usage_scenarios.html",
     "title": "Key Usage Scenarios | POSLink",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Store Management"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up POS Retail Connect Store Management"
   },
   "articles/support/customer_terms.html": {
     "href": "articles/support/customer_terms.html",
@@ -212,12 +212,12 @@
   "articles/tracking_management/faq.html": {
     "href": "articles/tracking_management/faq.html",
     "title": "FAQ | POSLink",
-    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use ELVA POSLink Tracking Management, no specific role center is required."
+    "keywords": "FAQ Is a specific Role Center required for use of your application? In order to use POS Retail Connect Tracking Management, no specific role center is required."
   },
   "articles/tracking_management/overview.html": {
     "href": "articles/tracking_management/overview.html",
     "title": "Overview | POSLink",
-    "keywords": "Overview ELVA POSLink Tracking Management is a business software solution developed by ELVA. ELVA POSLink Tracking Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
+    "keywords": "Overview POS Retail Connect Tracking Management is a business software solution developed by ELVA. POS Retail Connect Tracking Management is fully integrated with Dynamics 365 Business Central by extending its functionality and tailoring it to meet the requirements of local legislation and local business requirements."
   },
   "articles/tracking_management/tracking_management.html": {
     "href": "articles/tracking_management/tracking_management.html",
@@ -227,16 +227,16 @@
   "articles/tracking_management/usage_scenarios.html": {
     "href": "articles/tracking_management/usage_scenarios.html",
     "title": "Key Usage Scenarios | POSLink",
-    "keywords": "Key Usage Scenarios Walkthrough: How to set up ELVA POSLink Tracking Management"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up POS Retail Connect Tracking Management"
   },
   "index.html": {
     "href": "index.html",
-    "title": "ELVA POSLink contains following apps: | POSLink",
-    "keywords": "ELVA POSLink contains following apps: ELVA POSLink ELVA POSLink Store Management ELVA POSLink Item Management ELVA POSLink Pricing Management ELVA POSLink Loyalty Management ELVA POSLink Label Printing ELVA POSLink Gift Card Management ELVA POSLink POS ELVA POSLink Scale ELVA POSLink Scheduler ELVA POSLink Tracking Management LV"
+    "title": "POS Retail Connect contains following apps: | POSLink",
+    "keywords": "POS Retail Connect contains following apps: POS Retail Connect POS Retail Connect Store Management POS Retail Connect Item Management POS Retail Connect Pricing Management POS Retail Connect Loyalty Management POS Retail Connect Label Printing POS Retail Connect Gift Card Management POS Retail Connect POS POS Retail CHDPOS Connector POS Retail Connect Scale POS Retail Connect Tracking Management LV"
   },
   "readme.html": {
     "href": "readme.html",
-    "title": "[ELVA POSLink] Help pages for Microsoft Dynamics 365 Business Central | POSLink",
-    "keywords": "[ELVA POSLink] Help pages for Microsoft Dynamics 365 Business Central This help is hosted on GitHub pages at address: https://elva-d365-bc.github.io/poslink Project is based on DocFX solution Considerations File naming: All file names must be in lowercase, contains only alpha numeric symbols File names must not contain national characters or space Folder structure: Root folder contains some config files for DocFx Folder /images contains images used by all apps help Folder /templates contains DocxFx templates for generating site and pdf files Folder /articles contains all help files Each app has separate subfolder under /articles poslink store_management item_management pricing_management loyalty_management label_printing gift_card_management pos scale scheduler Folder /articles/support contains support files, such as customer terms and license agreement Each app folder should contain file toc.md with table of content and folder images, where should place images specific for this app help. Installation To update and run site generated for this help You should install following components: Visual Studio Code Doc FX compiler Add path to DocFx folder to user environment variable Path Git VCS If it not installed to default path (Program Files...) You should specify path to git.exe in VSCode settings file, for example: \"git.path\": \"d:/apps/git/bin/git.exe\" Useful links: Mark down syntax Word to Markdown Convertor RGB to HEX color convertor Spell checking To enable English spell checking install spell checker VS extension SpellRight and select language in right bottom corner of VSCode. Images To include image in md file You should use link of following format: ![alt](images/image_file_name.png) Includes Folder /articles/includes contains md files with reusable text. Each file should contain one line text, that can be used many times in different md files. To use include text in md files file use link of following format: [!INCLUDE[nav_name](./articles/includes/incl_name.md)] Where path to include file should be relative to current md file. Note (Warning/Tip/Important) You can use specially formatted blocks to pay user attention. These blocks format is following > [!NOTE] > Some note content that shoul be formatted as note > and the second line of note Will formatted in following way: Note Some note content that should be formatted as note and the second line of note In place of NOTE you can use also following keywords: TIP WARNING IMPORTANT CAUTION Tables Tables also can be formatted: | Tables | Are | Cool | | ------------- | :-----------: | ----: | | col 3 is | right-aligned | $1600 | | col 2 is | centered | $12 | | zebra stripes | are neat | $1 | Tables Are Cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1"
+    "title": "[POS Retail Connect] Help pages for Microsoft Dynamics 365 Business Central | POSLink",
+    "keywords": "[POS Retail Connect] Help pages for Microsoft Dynamics 365 Business Central This help is hosted on GitHub pages at address: https://elva-d365-bc.github.io/poslink Project is based on DocFX solution Considerations File naming: All file names must be in lowercase, contains only alpha numeric symbols File names must not contain national characters or space Folder structure: Root folder contains some config files for DocFx Folder /images contains images used by all apps help Folder /templates contains DocxFx templates for generating site and pdf files Folder /articles contains all help files Each app has separate subfolder under /articles poslink store_management item_management pricing_management loyalty_management label_printing gift_card_management pos scale scheduler Folder /articles/support contains support files, such as customer terms and license agreement Each app folder should contain file toc.md with table of content and folder images, where should place images specific for this app help. Installation To update and run site generated for this help You should install following components: Visual Studio Code Doc FX compiler Add path to DocFx folder to user environment variable Path Git VCS If it not installed to default path (Program Files...) You should specify path to git.exe in VSCode settings file, for example: \"git.path\": \"d:/apps/git/bin/git.exe\" Useful links: Mark down syntax Word to Markdown Convertor RGB to HEX color convertor Spell checking To enable English spell checking install spell checker VS extension SpellRight and select language in right bottom corner of VSCode. Images To include image in md file You should use link of following format: ![alt](images/image_file_name.png) Includes Folder /articles/includes contains md files with reusable text. Each file should contain one line text, that can be used many times in different md files. To use include text in md files file use link of following format: [!INCLUDE[nav_name](./articles/includes/incl_name.md)] Where path to include file should be relative to current md file. Note (Warning/Tip/Important) You can use specially formatted blocks to pay user attention. These blocks format is following > [!NOTE] > Some note content that shoul be formatted as note > and the second line of note Will formatted in following way: Note Some note content that should be formatted as note and the second line of note In place of NOTE you can use also following keywords: TIP WARNING IMPORTANT CAUTION Tables Tables also can be formatted: | Tables | Are | Cool | | ------------- | :-----------: | ----: | | col 3 is | right-aligned | $1600 | | col 2 is | centered | $12 | | zebra stripes | are neat | $1 | Tables Are Cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1"
   }
 }
