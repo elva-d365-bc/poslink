@@ -7,17 +7,17 @@
   "articles/chdpos/faq.html": {
     "href": "articles/chdpos/faq.html",
     "title": "BUJ | POSLink",
-    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot [!include[nav_name](../includes/app_chdpos.md)], specifisks Lomu centrs nav nepieciešams."
+    "keywords": "BUJ Vai ir nepieciešams specifisks Lomu centrs, lai varētu lietot aplikāciju? Lai varētu lietot POS Retail CHDPOS Connector, specifisks Lomu centrs nav nepieciešams."
   },
   "articles/chdpos/overview.html": {
     "href": "articles/chdpos/overview.html",
     "title": "Pārskats | POSLink",
-    "keywords": "Pārskats [!include[nav_name](../includes/app_chdpos.md)] ir biznesa programmatūras risinājums, kas izstrādāts ELVA. [!include[nav_name](../includes/app_chdpos.md)] ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
+    "keywords": "Pārskats POS Retail CHDPOS Connector ir biznesa programmatūras risinājums, kas izstrādāts ELVA. POS Retail CHDPOS Connector ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām."
   },
   "articles/chdpos/usage_scenarios.html": {
     "href": "articles/chdpos/usage_scenarios.html",
     "title": "Lietošanas scenāriji | POSLink",
-    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt [!include[nav_name](../includes/app_chdpos.md)]"
+    "keywords": "Lietošanas scenāriji Detalizēti norādījumi: kā uzstādīt POS Retail CHDPOS Connector"
   },
   "articles/gift_card_management/faq.html": {
     "href": "articles/gift_card_management/faq.html",
@@ -127,7 +127,7 @@
   "articles/poslink/overview.html": {
     "href": "articles/poslink/overview.html",
     "title": "Pārskats | POSLink",
-    "keywords": "Pārskats POS Retail Connect ir biznesa programmatūras risinājums, kas izstrādāts ELVA. POS Retail Connect ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām. POS Retail Connect iekļauj sevī iekļauj sekojošus appus: POS Retail Connect Store Management POS Retail Connect Item Management POS Retail Connect Pricing Management POS Retail Connect Loyalty Management POS Retail Connect Label Printing POS Retail Connect Gift Card Management POS Retail Connect POS [!include[app_chdpos](../includes/app_chdpos.md)] POS Retail Connect Scale POS Retail Connect Tracking Management EN"
+    "keywords": "Pārskats POS Retail Connect ir biznesa programmatūras risinājums, kas izstrādāts ELVA. POS Retail Connect ir pilnībā integrēta ar Dynamics 365 Business Central paplašinot funkcionalitāti un pielāgojoties vietējās likumdošanas un uzņēmējdarbības prasībām. POS Retail Connect iekļauj sevī iekļauj sekojošus appus: POS Retail Connect Store Management POS Retail Connect Item Management POS Retail Connect Pricing Management POS Retail Connect Loyalty Management POS Retail Connect Label Printing POS Retail Connect Gift Card Management POS Retail Connect POS POS Retail CHDPOS Connector POS Retail Connect Scale POS Retail Connect Tracking Management EN"
   },
   "articles/poslink/poslink.html": {
     "href": "articles/poslink/poslink.html",
@@ -232,7 +232,7 @@
   "index.html": {
     "href": "index.html",
     "title": "POS Retail Connect iekļauj sevī iekļauj sekojošus appus: | POSLink",
-    "keywords": "POS Retail Connect iekļauj sevī iekļauj sekojošus appus: POS Retail Connect POS Retail Connect Store Management POS Retail Connect Item Management POS Retail Connect Pricing Management POS Retail Connect Loyalty Management POS Retail Connect Label Printing POS Retail Connect Gift Card Management POS Retail Connect POS [!include[app_chdpos](articles/includes/app_chdpos.md)] POS Retail Connect Scale POS Retail Connect Tracking Management EN"
+    "keywords": "POS Retail Connect iekļauj sevī iekļauj sekojošus appus: POS Retail Connect POS Retail Connect Store Management POS Retail Connect Item Management POS Retail Connect Pricing Management POS Retail Connect Loyalty Management POS Retail Connect Label Printing POS Retail Connect Gift Card Management POS Retail Connect POS POS Retail CHDPOS Connector POS Retail Connect Scale POS Retail Connect Tracking Management EN"
   },
   "readme.html": {
     "href": "readme.html",
