@@ -395,15 +395,14 @@
     },
     {
       "log_codes": [
-        "include-not-found",
-        "InvalidFileLink"
+        "include-not-found"
       ],
       "type": "Conceptual",
       "source_relative_path": "articles/poslink/overview.md",
       "output": {
         ".html": {
           "relative_path": "articles/poslink/overview.html",
-          "hash": "z8lou3UJ1DIrAh6cqqh8pyHRDYRyYuIBHDm24cR3Rss="
+          "hash": "n6TaXWiKdtnAko705XLZcvVcE3ZJX5EGiakzSSGPxUc="
         }
       },
       "is_incremental": false,
@@ -767,7 +766,7 @@
       "output": {
         ".html": {
           "relative_path": "readme.html",
-          "hash": "MF33vH+uNM7eYzBaS2AcorM6eXHJGa6XZvR6XoqizZ4="
+          "hash": "O0UCX8fNFSPxHl4g4nZii1aG9UQpDykxnPx02n6rbVg="
         }
       },
       "is_incremental": false,
@@ -779,7 +778,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "wUc0yf8WN/8tra9PL+P8qsouShIpffvUcCuuFXZ2w+Q="
+          "hash": "25BZP6RHPmwIev3f3ZDEy85YfDrNguTIT3RM5hQ6HVQ="
         }
       },
       "is_incremental": false,
