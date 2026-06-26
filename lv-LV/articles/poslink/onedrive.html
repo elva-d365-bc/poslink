@@ -89,14 +89,14 @@
 <h3 id="21-reģistrācija">2.1 Reģistrācija</h3>
 <ol>
 <li>Dodieties uz <a href="https://portal.azure.com">portal.azure.com</a> → <strong>Microsoft Entra ID</strong> → <strong>App registrations</strong> → <strong>New registration</strong>.</li>
-<li>Nosaukums: <code>**BC ELVA Retail Integration**</code> (vai cits uzņēmumam nozīmīgs nosaukums).</li>
+<li>Nosaukums: <strong><code>BC ELVA Retail Integration</code></strong> (vai cits uzņēmumam nozīmīgs nosaukums).</li>
 <li>Account types: <strong>Accounts in this organizational directory only</strong>.</li>
 <li><strong>Register</strong>.</li>
 </ol>
 <h3 id="22-klienta-noslēpums-client-secret">2.2 Klienta noslēpums (Client Secret)</h3>
 <ol>
 <li><strong>Certificates &amp; secrets</strong> → <strong>New client secret</strong>.</li>
-<li>Apraksts: <code>**BC ELVA Retail Integration Secret**</code>.</li>
+<li>Apraksts: <strong><code>BC ELVA Retail Integration Secret</code></strong>.</li>
 <li>Derīguma termiņš: <strong>24 mēneši</strong> (maksimālais standarta termiņš).
 <blockquote>
 <p>⚠️ Uzreiz pēc izveidošanas iestatiet <strong>Calendar / Outlook atgādinājumu</strong> 23 mēnešu laikā. Pēc termiņa beigām failu apmaiņa nedarbosies!</p>
@@ -119,12 +119,12 @@
 </thead>
 <tbody>
 <tr>
-<td><code>**Files.ReadWrite.All**</code></td>
+<td><strong><code>Files.ReadWrite.All</code></strong></td>
 <td>Application (<strong>nevis</strong> Delegated)</td>
 <td>OneDrive failu lasīšanai un rakstīšanai</td>
 </tr>
 <tr>
-<td><code>**Sites.ReadWrite.All**</code></td>
+<td><strong><code>Sites.ReadWrite.All</code></strong></td>
 <td>Application (<strong>nevis</strong> Delegated)</td>
 <td>SharePoint failu lasīšanai un rakstīšanai</td>
 </tr>
@@ -144,7 +144,7 @@ Ja atzīme nav zaļa — augšupielāde neizdosies ar 401 kļūdu.</p>
 <p><strong>Neizmantojiet parasta darbinieka e-pasta adresi</strong> laukā &quot;OneDrive User Email&quot;. Ja darbinieks mainās un tā konts tiek slēgts — integrācija nedarbojas.</p>
 <p><strong>Ieteicamais risinājums:</strong></p>
 <ul>
-<li>Izveidojiet speciālu <strong>Microsoft 365 pakalpojuma kontu</strong>, piem., <code>**retailintegration@contoso.onmicrosoft.com**</code>.</li>
+<li>Izveidojiet speciālu <strong>Microsoft 365 pakalpojuma kontu</strong>, piem., <strong><code>retailintegration@contoso.onmicrosoft.com</code></strong>.</li>
 <li>Piešķiriet tam <strong>SharePoint/OneDrive licenci</strong> (nepieciešama, lai OneDrive būtu aktivizēts).</li>
 <li>Šim kontam ir jāpieslēdzas OneDrive vismaz vienu reizi, lai tiktu inicializēta krātuve.</li>
 <li>Dokumentējiet šo kontu IT sistēmu sarakstā.</li>
@@ -164,13 +164,13 @@ Ja atzīme nav zaļa — augšupielāde neizdosies ar 401 kļūdu.</p>
 <li>Pēc izveides pārliecināties, ka vismaz viena dokumentu bibliotēka ir redzama.</li>
 </ol>
 <blockquote>
-<p><strong>Ieteicamais URL piemērs:</strong> <code>**https://contoso.sharepoint.com/sites/RetailIntegration**</code>  ()</p>
+<p><strong>Ieteicamais URL piemērs:</strong> <strong><code>https://contoso.sharepoint.com/sites/RetailIntegration</code></strong>  ()</p>
 </blockquote>
 <blockquote>
 <p><strong>Piezīme:</strong> Mapes ceļš (gan augšupielādei, gan lejupielādei) tiek konfigurēts <strong>katra moduļa</strong> uzstādījumos, nevis kopējā savienojuma konfigurācijā.</p>
 </blockquote>
 <h3 id="42-piekļuves-prasības">4.2 Piekļuves prasības</h3>
-<p>Azure AD lietotnei (<code>**BC ELVA Retail Integration**</code>) nav nepieciešams kļūt par vietnes dalībnieku — <code>**Sites.ReadWrite.All**</code> Application atļauja piešķir piekļuvi <strong>visām</strong> vietnēm.</p>
+<p>Azure AD lietotnei (<strong><code>BC ELVA Retail Integration</code></strong>) nav nepieciešams kļūt par vietnes dalībnieku — <strong><code>Sites.ReadWrite.All</code></strong> Application atļauja piešķir piekļuvi <strong>visām</strong> vietnēm.</p>
 <hr>
 <h2 id="5-azure-ad-lietotnes-reģistrācija-">5. Azure AD lietotnes reģistrācija Dynamics 365 Business Central</h2>
 <p>Lai Dynamics 365 Business Central varētu izmantot izveidoto App Registration (no 2.–3. soļa), klienta ID jāreģistrē arī Dynamics 365 Business Central pusē — lapas <strong>Microsoft Entra Applications</strong> (iepriekš: AAD Applications) sarakstā.</p>
@@ -194,11 +194,11 @@ Ja atzīme nav zaļa — augšupielāde neizdosies ar 401 kļūdu.</p>
 </tr>
 <tr>
 <td><strong>Description</strong></td>
-<td>Piem., <code>**ELVA Retail BC Integration**</code></td>
+<td>Piem., <strong><code>ELVA Retail BC Integration</code></strong></td>
 </tr>
 <tr>
 <td><strong>State</strong></td>
-<td><code>**Enabled**</code></td>
+<td><strong><code>Enabled</code></strong></td>
 </tr>
 </tbody>
 </table>
@@ -217,18 +217,18 @@ Ja atzīme nav zaļa — augšupielāde neizdosies ar 401 kļūdu.</p>
 <p>⚠️ Šis punkts attiecas uz ārējiem aģentiem vai sistēmām, kas <strong>lejupielādē</strong> failus no SharePoint/OneDrive (piemēram, POS Retail Connect Scale aģents, kas ielasa svaru failus; vai jebkurš cits POS Retail Connect modulis, kurš saņem failus no ārējās sistēmas).</p>
 </blockquote>
 <h3 id="61-problēma">6.1 Problēma</h3>
-<p>Dynamics 365 Business Central <strong>augšupielādē vai novieto</strong> failus SharePoint/OneDrive ar <code>**Sites.ReadWrite.All**</code> / <code>**Files.ReadWrite.All**</code>. Ārējā sistēma vai Dynamics 365 Business Central modulis, kurš <strong>nolasa</strong> šos failus, var izmantot to pašu savienojumu vai atsevišķu.</p>
+<p>Dynamics 365 Business Central <strong>augšupielādē vai novieto</strong> failus SharePoint/OneDrive ar <strong><code>Sites.ReadWrite.All</code></strong> / <strong><code>Files.ReadWrite.All</code></strong>. Ārējā sistēma vai Dynamics 365 Business Central modulis, kurš <strong>nolasa</strong> šos failus, var izmantot to pašu savienojumu vai atsevišķu.</p>
 <h3 id="62-risinājums">6.2 Risinājums</h3>
 <p>Ir divas iespējas:</p>
 <p><strong>A) Tas pats Azure AD app + tās pašas atļaujas:</strong></p>
 <ul>
 <li>Konfigurējiet aģentu ar tiem pašiem Client ID un Secret.</li>
-<li><code>**Files.ReadWrite.All**</code> / <code>**Sites.ReadWrite.All**</code> ietver arī lasīšanas tiesības.</li>
+<li><strong><code>Files.ReadWrite.All</code></strong> / <strong><code>Sites.ReadWrite.All</code></strong> ietver arī lasīšanas tiesības.</li>
 </ul>
 <p><strong>B) Atsevišķs lasīšanas konts (ieteicams drošībai):</strong></p>
 <ul>
-<li>Izveidojiet otru App Registration, piem., <code>**BC ELVA Retail Reader**</code>.</li>
-<li>Piešķiriet tikai <code>**Files.Read.All**</code> vai <code>**Sites.Read.All**</code> (Application).</li>
+<li>Izveidojiet otru App Registration, piem., <strong><code>BC ELVA Retail Reader</code></strong>.</li>
+<li>Piešķiriet tikai <strong><code>Files.Read.All</code></strong> vai <strong><code>Sites.Read.All</code></strong> (Application).</li>
 <li>Konfigurējiet aģentu ar šī otrā app Client ID un Secret.</li>
 </ul>
 <blockquote>
@@ -260,27 +260,27 @@ Ja atzīme nav zaļa — augšupielāde neizdosies ar 401 kļūdu.</p>
 <tr>
 <td><strong>Code</strong></td>
 <td>Unikāls savienojuma kods</td>
-<td><code>**SCALE-SP**</code>, <code>**IMPORT-OD**</code></td>
+<td><strong><code>SCALE-SP</code></strong>, <strong><code>IMPORT-OD</code></strong></td>
 </tr>
 <tr>
 <td><strong>Description</strong></td>
 <td>Apraksts</td>
-<td><code>**Scale eksports uz SharePoint**</code>, <code>**Imports no OneDrive**</code></td>
+<td><strong><code>Scale eksports uz SharePoint</code></strong>, <strong><code>Imports no OneDrive</code></strong></td>
 </tr>
 <tr>
 <td><strong>Delivery Method</strong></td>
-<td><code>SharePoint</code> vai <code>OneDrive for Business</code></td>
+<td><strong><code>SharePoint</code></strong> vai <strong><code>OneDrive for Business</code></strong></td>
 <td></td>
 </tr>
 <tr>
 <td><strong>Site URL</strong></td>
-<td>Pilns vietnes URL ar <code>**https://**</code></td>
-<td><code>**https://contoso.sharepoint.com/sites/RetailIntegration**</code></td>
+<td>Pilns vietnes URL ar <strong><code>https://</code></strong></td>
+<td><strong><code>https://contoso.sharepoint.com/sites/RetailIntegration</code></strong></td>
 </tr>
 <tr>
 <td><strong>Client ID</strong></td>
 <td>Azure AD App's Application (client) ID</td>
-<td><code>**xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx**</code></td>
+<td><strong><code>xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx</code></strong></td>
 </tr>
 <tr>
 <td><strong>Client Secret</strong></td>
@@ -290,17 +290,17 @@ Ja atzīme nav zaļa — augšupielāde neizdosies ar 401 kļūdu.</p>
 <tr>
 <td><strong>Client Secret Expiry Date</strong></td>
 <td>Noslēpuma beigu datums</td>
-<td><code>**31.12.2026**</code></td>
+<td><strong><code>31.12.2026</code></strong></td>
 </tr>
 <tr>
 <td><strong>OneDrive User Email</strong></td>
 <td>Pakalpojuma konta UPN (tikai OneDrive)</td>
-<td><code>**retailintegration@contoso.onmicrosoft.com**</code></td>
+<td><strong><code>retailintegration@contoso.onmicrosoft.com</code></strong></td>
 </tr>
 <tr>
 <td><strong>Azure AD Tenant ID</strong></td>
 <td>Atstāt tukšu SaaS vidē; aizpildīt OnPrem</td>
-<td><code>**contoso.onmicrosoft.com**</code> vai GUID</td>
+<td><strong><code>contoso.onmicrosoft.com</code></strong> vai GUID</td>
 </tr>
 </tbody>
 </table>
@@ -364,13 +364,13 @@ Ja atzīme nav zaļa — augšupielāde neizdosies ar 401 kļūdu.</p>
 </tr>
 </tbody>
 </table>
-<p>Dynamics 365 Business Central automātiski mēģinās &quot;uzminēt&quot; nomnieku no SharePoint URL (piem., <code>**https://contoso.sharepoint.com**</code> → <code>**contoso.onmicrosoft.com**</code>), bet <strong>šī uzminēšana ir rezerves variants</strong> — ja jūsu tenant izmanto pielāgotu domēnu (nevis <code>**.onmicrosoft.com**</code>), aizpildiet lauku manuāli.</p>
+<p>Dynamics 365 Business Central automātiski mēģinās &quot;uzminēt&quot; nomnieku no SharePoint URL (piem., <strong><code>https://contoso.sharepoint.com</code></strong> → <strong><code>contoso.onmicrosoft.com</code></strong>), bet <strong>šī uzminēšana ir rezerves variants</strong> — ja jūsu tenant izmanto pielāgotu domēnu (nevis <code>**.onmicrosoft.com</code>**), aizpildiet lauku manuāli.</p>
 <h3 id="82-manuāla-nomnieka-id-aizpildīšana">8.2 Manuāla nomnieka ID aizpildīšana</h3>
 <p>Pieņemamās vērtības:</p>
 <ul>
-<li>Tenant GUID: <code>**xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx**</code></li>
-<li>Tenant domēns: <code>**contoso.onmicrosoft.com**</code></li>
-<li>Pielāgots domēns: <code>**contoso.com**</code> (ja konfigurēts Azure AD)</li>
+<li>Tenant GUID: <strong><code>xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx</code></strong></li>
+<li>Tenant domēns: <strong><code>contoso.onmicrosoft.com</code></strong></li>
+<li>Pielāgots domēns: <strong><code>contoso.com</code></strong> (ja konfigurēts Azure AD)</li>
 </ul>
 <hr>
 <h2 id="9-bieżākās-kļūdas">9. Bieżākās kļūdas</h2>
@@ -425,8 +425,8 @@ Ja atzīme nav zaļa — augšupielāde neizdosies ar 401 kļūdu.</p>
 <p>Savienojuma lapā <strong>SharePoint Connection</strong> ir pieejama poga <strong>Test Connection</strong>. Tā veic 5 soļus:</p>
 <ol>
 <li>Iegūst OAuth2 tokenu (pārbauda Client ID + Secret).</li>
-<li>Pārbauda, vai tokens ir derīgs Graph API (<code>**GET /organization**</code>).</li>
-<li>Pārbauda Graph API atļaujas (<code>**GET /sites/root**</code>).</li>
+<li>Pārbauda, vai tokens ir derīgs Graph API (<strong><code>GET /organization</code></strong>).</li>
+<li>Pārbauda Graph API atļaujas (<strong><code>GET /sites/root</code></strong>).</li>
 <li>Atrisina diskdziņa URL (atrod SharePoint vietni / OneDrive lietotāju).</li>
 <li>Pārbauda, vai mērķa mape eksistē (informatīvi — mape tiks izveidota automātiski).</li>
 </ol>
