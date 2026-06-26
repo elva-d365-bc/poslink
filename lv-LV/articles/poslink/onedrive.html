@@ -1,0 +1,473 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>POS Retail Connect &#8212; SharePoint / OneDrive integr&#257;cija | POS Retail Connect </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="POS Retail Connect &#8212; SharePoint / OneDrive integr&#257;cija | POS Retail Connect ">
+    <meta name="generator" content="docfx 2.59.4.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="../../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    <meta property="docfx:rel" content="../../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../.././images/elva_logo.jpg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list">Search Results for <span></span></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination" data-first="First" data-prev="Previous" data-next="Next" data-last="Last"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="--sharepoint--onedrive-integrācija">POS Retail Connect — SharePoint / OneDrive integrācija</h1>
+
+<hr>
+<h2 id="1-pārskats">1. Pārskats</h2>
+<p><strong>POS Retail Connect</strong> nodrošina kopēju SharePoint / OneDrive failu apmaiņas mehānismu, kuru var izmantot jebkurš POS Retail Connect modulis gan failu <strong>nosūtīšanai</strong> (augšupielāde uz SharePoint/OneDrive), gan failu <strong>saņemšanai</strong> (lejupielāde no SharePoint/OneDrive). Piemērs: <strong>POS Retail Connect Scale</strong> modulis augšupielādē svaru grupas failus; citi moduļi var lejupielādēt failus, ko ārējās sistēmas ir novietojušas noteiktā mapē.</p>
+<p>Savienojumi tiek konfigurēti centralizēti lapā <strong>SharePoint Connections</strong> un katrs modulis savos uzstādījumos norāda izmantojamā savienojuma kodu.</p>
+<p>Autentifikācija notiek caur <strong>Microsoft Graph API</strong> ar <strong>OAuth2 Client Credentials</strong> plūsmu (lietotne-uz-lietotni, bez lietotāja iesaistīšanas, <strong>bez Refresh Token</strong>). Izmantojot Client Credentials, tokens tiek iegūts tieši no Azure AD ar Client ID un Client Secret — nav nepieciešama lietotāja autorizācija vai tokenu atjaunošanas plūsma.</p>
+<hr>
+<h2 id="2-azure-ad-lietotnes-reģistrācija">2. Azure AD lietotnes reģistrācija</h2>
+<h3 id="21-reģistrācija">2.1 Reģistrācija</h3>
+<ol>
+<li>Dodieties uz <a href="https://portal.azure.com">portal.azure.com</a> → <strong>Microsoft Entra ID</strong> → <strong>App registrations</strong> → <strong>New registration</strong>.</li>
+<li>Nosaukums: <code>BC ELVA Retail Integration</code> (vai cits uzņēmumam nozīmīgs nosaukums).</li>
+<li>Account types: <strong>Accounts in this organizational directory only</strong>.</li>
+<li><strong>Register</strong>.</li>
+</ol>
+<h3 id="22-klienta-noslēpums-client-secret">2.2 Klienta noslēpums (Client Secret)</h3>
+<ol>
+<li><strong>Certificates &amp; secrets</strong> → <strong>New client secret</strong>.</li>
+<li>Apraksts: <code>BC ELVA Retail Integration Secret</code>.</li>
+<li>Derīguma termiņš: <strong>24 mēneši</strong> (maksimālais standarta termiņš).
+<blockquote>
+<p>⚠️ Uzreiz pēc izveidošanas iestatiet <strong>Calendar / Outlook atgādinājumu</strong> 23 mēnešu laikā. Pēc termiņa beigām failu apmaiņa nedarbosies!</p>
+</blockquote>
+</li>
+<li>Nokopējiet noslēpuma <strong>Value</strong> — tas redzams tikai vienu reizi.</li>
+<li>Dynamics 365 Business Central uzstādījumos: ievadiet Client ID un Secret, aizpildiet <strong>Client Secret Expiry Date</strong> lauku ar reālo beigu datumu.</li>
+</ol>
+<blockquote>
+<p><strong>Vērtīgs padoms:</strong> Dynamics 365 Business Central brīdinās, ja noslēpuma termiņš ir mazāks par 30 dienām, un prasīs lietotāja apstiprinājumu turpināt failu apmaiņu, ja termiņš jau beidzies.</p>
+</blockquote>
+<h3 id="23-api-atļaujas">2.3 API atļaujas</h3>
+<table>
+<thead>
+<tr>
+<th>Atļauja</th>
+<th>Tips</th>
+<th>Kāpēc vajadzīga</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>Files.ReadWrite.All</code></td>
+<td>Application (<strong>nevis</strong> Delegated)</td>
+<td>OneDrive failu lasīšanai un rakstīšanai</td>
+</tr>
+<tr>
+<td><code>Sites.ReadWrite.All</code></td>
+<td>Application (<strong>nevis</strong> Delegated)</td>
+<td>SharePoint failu lasīšanai un rakstīšanai</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>⚠️ <strong>Kritisks solis:</strong> Pēc atļauju pievienošanas ir <strong>obligāti</strong> jānoklikšķina <strong>Grant admin consent for [jūsu organizācija]</strong>.<br>
+Blakus katrai atļaujai jāparādās <strong>zaļai atzīmei</strong> ar tekstu &quot;Granted for...&quot;.<br>
+Ja atzīme nav zaļa — augšupielāde neizdosies ar 401 kļūdu.</p>
+</blockquote>
+<blockquote>
+<p>⚠️ <strong>Svarīgi:</strong> Atļaujām jābūt <strong>Application</strong> tipam, nevis <strong>Delegated</strong>. Kļūda &quot;Unsupported app only token&quot; nozīmē, ka atļaujas ir uzstādītas kā Delegated.</p>
+</blockquote>
+<hr>
+<h2 id="3-onedrive--pakalpojuma-konts">3. OneDrive — pakalpojuma konts</h2>
+<h3 id="31-izmantojiet-speciālu-pakalpojuma-kontu">3.1 Izmantojiet speciālu pakalpojuma kontu</h3>
+<p><strong>Neizmantojiet parasta darbinieka e-pasta adresi</strong> laukā &quot;OneDrive User Email&quot;. Ja darbinieks mainās un tā konts tiek slēgts — integrācija nedarbojas.</p>
+<p><strong>Ieteicamais risinājums:</strong></p>
+<ul>
+<li>Izveidojiet speciālu <strong>Microsoft 365 pakalpojuma kontu</strong>, piem., <code>retailintegration@contoso.onmicrosoft.com</code>.</li>
+<li>Piešķiriet tam <strong>SharePoint/OneDrive licenci</strong> (nepieciešama, lai OneDrive būtu aktivizēts).</li>
+<li>Šim kontam ir jāpieslēdzas OneDrive vismaz vienu reizi, lai tiktu inicializēta krātuve.</li>
+<li>Dokumentējiet šo kontu IT sistēmu sarakstā.</li>
+</ul>
+<blockquote>
+<p><strong>Alternatīva:</strong> Izmantojiet <strong>SharePoint dokumentu bibliotēku</strong> (nevis OneDrive) — tad personīgā konta problēma nebūs.</p>
+</blockquote>
+<hr>
+<h2 id="4-sharepoint--vietnes-priekšnosacījumi">4. SharePoint — vietnes priekšnosacījumi</h2>
+<h3 id="41-vietne-jāizveido-pirms--konfigurācijas">4.1 Vietne jāizveido pirms Dynamics 365 Business Central konfigurācijas</h3>
+<p>Dynamics 365 Business Central <strong>neizveido</strong> SharePoint vietnes automātiski. Vietnei jābūt izveidotai iepriekš, jo SharePoint vietnes izveide ir nozīmīga IT administratīva darbība — tā izveido Microsoft 365 grupu, pastkastes, kalendārus, Teams kanālus u.c.</p>
+<p><strong>Soļi pirms Dynamics 365 Business Central konfigurācijas:</strong></p>
+<ol>
+<li>SharePoint admin atvērt <a href="https://admin.microsoft.com">SharePoint Admin Center</a> → <strong>Sites</strong> → <strong>Active sites</strong> → <strong>Create</strong>.</li>
+<li>Izvēlēties vietnes veidu (piemēram, <strong>Team site</strong> vai <strong>Communication site</strong>).</li>
+<li>Nosaukums, URL, īpašnieks.</li>
+<li>Pēc izveides pārliecināties, ka vismaz viena dokumentu bibliotēka ir redzama.</li>
+</ol>
+<blockquote>
+<p><strong>Ieteicamais URL piemērs:</strong> <code>https://contoso.sharepoint.com/sites/RetailIntegration</code></p>
+</blockquote>
+<blockquote>
+<p><strong>Piezīme:</strong> Mapes ceļš (gan augšupielādei, gan lejupielādei) tiek konfigurēts <strong>katra moduļa</strong> uzstādījumos, nevis kopējā savienojuma konfigurācijā.</p>
+</blockquote>
+<h3 id="42-piekļuves-prasības">4.2 Piekļuves prasības</h3>
+<p>Azure AD lietotnei (<code>BC ELVA Retail Integration</code>) nav nepieciešams kļūt par vietnes dalībnieku — <code>Sites.ReadWrite.All</code> Application atļauja piešķir piekļuvi <strong>visām</strong> vietnēm.</p>
+<hr>
+<h2 id="5-azure-ad-lietotnes-reģistrācija-">5. Azure AD lietotnes reģistrācija Dynamics 365 Business Central</h2>
+<p>Lai Dynamics 365 Business Central varētu izmantot izveidoto App Registration (no 2.–3. soļa), klienta ID jāreģistrē arī Dynamics 365 Business Central pusē — lapas <strong>Microsoft Entra Applications</strong> (iepriekš: AAD Applications) sarakstā.</p>
+<h3 id="51-pievienošana-">5.1 Pievienošana Dynamics 365 Business Central</h3>
+<ol>
+<li>Dynamics 365 Business Central meklējiet <strong>Microsoft Entra Applications</strong></li>
+<li>Nospiediet <strong>New</strong></li>
+<li>Aizpildiet:</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Lauks</th>
+<th>Vērtība</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Client ID</strong></td>
+<td>Ielīmējiet Application (client) ID no Azure AD</td>
+</tr>
+<tr>
+<td><strong>Description</strong></td>
+<td>Piem., <code>ELVA Retail BC Integration</code></td>
+</tr>
+<tr>
+<td><strong>State</strong></td>
+<td><code>Enabled</code></td>
+</tr>
+</tbody>
+</table>
+<ol start="4">
+<li>Nospiediet <strong>Grant Consent</strong> — tas izveido service principal jūsu tenantā un saista to ar Dynamics 365 Business Central</li>
+<li>Sadaļā <strong>User Permission Sets</strong> pievienojiet katra moduļa Permission Set, kuram nepieciešama piekļuve Dynamics 365 Business Central API.</li>
+</ol>
+<blockquote>
+<p>Pievienojiet tikai tās tiesibas, kuras reāli tiek izmantotas. Minimāli vajadzīga lasīšanas/rakstīšanas piekļuve tiem Dynamics 365 Business Central API resursiem, kurus izmanto attiecīgais modulis.</p>
+</blockquote>
+<h3 id="52-kāpēc-abi-soļi-ir-nepieciešami">5.2 Kāpēc abi soļi ir nepieciešami</h3>
+<p>Azure AD App Registration (2.–3. solis) piešķir tiesības <strong>Azure AD</strong> pusē (Microsoft Graph izsaukumiem no Dynamics 365 Business Central). Registrēšana <strong>Dynamics 365 Business Central Entra Applications</strong> pusē piešķir tiesības <strong>Dynamics 365 Business Central</strong> pusē (ārējais modulis vai sistēma var izsaukt Dynamics 365 Business Central API). Abi soļi jāizpilda.</p>
+<hr>
+<h2 id="6-ārējo-aģentu--lasīšanas-piekļuve">6. Ārējo aģentu — lasīšanas piekļuve</h2>
+<blockquote>
+<p>⚠️ Šis punkts attiecas uz ārējiem aģentiem vai sistēmām, kas <strong>lejupielādē</strong> failus no SharePoint/OneDrive (piemēram, POS Retail Connect Scale aģents, kas ielasa svaru failus; vai jebkurš cits POS Retail Connect modulis, kurš saņem failus no ārējās sistēmas).</p>
+</blockquote>
+<h3 id="61-problēma">6.1 Problēma</h3>
+<p>Dynamics 365 Business Central <strong>augšupielādē vai novieto</strong> failus SharePoint/OneDrive ar <code>Sites.ReadWrite.All</code> / <code>Files.ReadWrite.All</code>. Ārējā sistēma vai Dynamics 365 Business Central modulis, kurš <strong>nolasa</strong> šos failus, var izmantot to pašu savienojumu vai atsevišķu.</p>
+<h3 id="62-risinājums">6.2 Risinājums</h3>
+<p>Ir divas iespējas:</p>
+<p><strong>A) Tas pats Azure AD app + tās pašas atļaujas:</strong></p>
+<ul>
+<li>Konfigurējiet aģentu ar tiem pašiem Client ID un Secret.</li>
+<li><code>Files.ReadWrite.All</code> / <code>Sites.ReadWrite.All</code> ietver arī lasīšanas tiesības.</li>
+</ul>
+<p><strong>B) Atsevišķs lasīšanas konts (ieteicams drošībai):</strong></p>
+<ul>
+<li>Izveidojiet otru App Registration, piem., <code>BC ELVA Retail Reader</code>.</li>
+<li>Piešķiriet tikai <code>Files.Read.All</code> vai <code>Sites.Read.All</code> (Application).</li>
+<li>Konfigurējiet aģentu ar šī otrā app Client ID un Secret.</li>
+</ul>
+<blockquote>
+<p>Princips &quot;mazāk atļauju — mazāks risks&quot; — ja aģenta akreditācijas dati tiek nopludināti, var tikai lasīt, nevis rakstīt.</p>
+</blockquote>
+<hr>
+<h2 id="7--konfigurācija">7. Dynamics 365 Business Central konfigurācija</h2>
+<h3 id="71-atļaut-httpclient-pieprasījumus">7.1 Atļaut HttpClient pieprasījumus</h3>
+<p>Pirms jebkurš POS Retail Connect paplašinājums var izsaukt ārējos pakalpojumus (Graph API), jāiespējo izejošie HTTP pieprasījumi katram paplašinājumam, kas izmanto SharePoint/OneDrive integrāciju:</p>
+<ol>
+<li>Dynamics 365 Business Central atveriet <strong>Extension Management</strong> (Paplašinājumu pārvaldību)</li>
+<li>Atrodiet attiecīgo paplašinājumu (piemēram, <strong>POS Retail Connect Scale</strong>, vai jebkuru citu moduli, kas veic failu apmaiņu)</li>
+<li>Nospiediet trīs punktus → <strong>Allow HttpClient Requests</strong> → iestatiet <strong>Yes</strong></li>
+</ol>
+<blockquote>
+<p>Šis iestatījums jāiespējo katram paplašinājumam, kas veic HTTP izsaukumus. Bez tā visi HTTP izsaukumi neizdosies bez kļūdas ziņojuma.</p>
+</blockquote>
+<h3 id="72-sharepoint-connections--kopējais-savienojumu-saraksts">7.2 SharePoint Connections — kopējais savienojumu saraksts</h3>
+<p>Visi savienojumi tiek konfigurēti <strong>vienā centralizētā vietā</strong> — Dynamics 365 Business Central meklējiet <strong>SharePoint Connections</strong>. Katrs ieraksts ir atsevišķs savienojums (var konfigurēt vairākus dažādiem moduļiem vai vietnēm).</p>
+<table>
+<thead>
+<tr>
+<th>Lauks</th>
+<th>Vērtība</th>
+<th>Piemērs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Code</strong></td>
+<td>Unikāls savienojuma kods</td>
+<td><code>SCALE-SP</code>, <code>IMPORT-OD</code></td>
+</tr>
+<tr>
+<td><strong>Description</strong></td>
+<td>Apraksts</td>
+<td><code>Scale eksports uz SharePoint</code>, <code>Imports no OneDrive</code></td>
+</tr>
+<tr>
+<td><strong>Delivery Method</strong></td>
+<td><code>SharePoint</code> vai <code>OneDrive for Business</code></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Site URL</strong></td>
+<td>Pilns vietnes URL ar <code>https://</code></td>
+<td><code>https://contoso.sharepoint.com/sites/RetailIntegration</code></td>
+</tr>
+<tr>
+<td><strong>Client ID</strong></td>
+<td>Azure AD App's Application (client) ID</td>
+<td><code>xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx</code></td>
+</tr>
+<tr>
+<td><strong>Client Secret</strong></td>
+<td>Klienta noslēpuma vērtība</td>
+<td>(ievadīt reizi, tiek šifrēts Isolated Storage)</td>
+</tr>
+<tr>
+<td><strong>Client Secret Expiry Date</strong></td>
+<td>Noslēpuma beigu datums</td>
+<td><code>31.12.2026</code></td>
+</tr>
+<tr>
+<td><strong>OneDrive User Email</strong></td>
+<td>Pakalpojuma konta UPN (tikai OneDrive)</td>
+<td><code>retailintegration@contoso.onmicrosoft.com</code></td>
+</tr>
+<tr>
+<td><strong>Azure AD Tenant ID</strong></td>
+<td>Atstāt tukšu SaaS vidē; aizpildīt OnPrem</td>
+<td><code>contoso.onmicrosoft.com</code> vai GUID</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Pēc aizpildīšanas izmantojiet pogu <strong>Test Connection</strong>, lai pārbaudītu savienojumu.</p>
+</blockquote>
+<h3 id="73-moduļa-uzstādījumi--savienojuma-piesaiste">7.3 Moduļa uzstādījumi — savienojuma piesaiste</h3>
+<p>Katrs modulis savos uzstādījumos norāda, kuru savienojumu izmantot, ar lauku <strong>SharePoint Connection Code</strong>. Mapes ceļš un citi moduļa specifiskie parametri (piemēram, augšupielādes vai lejupielādes mape, arhīva mape) tiek konfigurēti <strong>katra moduļa</strong> uzstādījumos, nevis kopējā savienojumā.</p>
+<p>Tipiskais princips:</p>
+<ul>
+<li><strong>Eksportam</strong> (Dynamics 365 Business Central → SharePoint/OneDrive): modulis raksta failu norādītajā mapē.</li>
+<li><strong>Importam</strong> (SharePoint/OneDrive → Dynamics 365 Business Central): modulis nolasa failus no norādītās mapes un pēc apstrādes pārvieto tos uz arhīva mapi.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Modulis</th>
+<th>Uzstādījumu lapa</th>
+<th>Moduļa specifiskie lauki</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>POS Retail Connect Scale</strong></td>
+<td>Scale Integration Setup (Device Group)</td>
+<td>SharePoint Connection Code, SharePoint Folder Path</td>
+</tr>
+<tr>
+<td><em>Citi moduļi</em></td>
+<td>Katra moduļa Setup lapa</td>
+<td>SharePoint Connection Code, mapes ceļi atbilstoši moduļa loģikai</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="8-onprem--īpaši-apsvērumi">8. OnPrem — īpaši apsvērumi</h2>
+<h3 id="81-automātiskā-nomnieka-noteikšana">8.1 Automātiskā nomnieka noteikšana</h3>
+<table>
+<thead>
+<tr>
+<th>Dynamics 365 Business Central vides tips</th>
+<th>GetAadTenantId()</th>
+<th>Ko ievadīt laukā &quot;Azure AD Tenant ID&quot;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>SaaS (Dynamics 365 Business Central Online)</strong></td>
+<td>Atgriež GUID automātiski</td>
+<td>Atstāt tukšu</td>
+</tr>
+<tr>
+<td><strong>OnPrem ar Azure AD autentifikāciju</strong></td>
+<td>Atgriež GUID automātiski</td>
+<td>Atstāt tukšu</td>
+</tr>
+<tr>
+<td><strong>OnPrem ar NavUserPassword autentifikāciju</strong></td>
+<td>Atgriež tukšu</td>
+<td>Jāaizpilda manuāli</td>
+</tr>
+</tbody>
+</table>
+<p>Dynamics 365 Business Central automātiski mēģinās &quot;uzminēt&quot; nomnieku no SharePoint URL (piem., <code>contoso.sharepoint.com</code> → <code>contoso.onmicrosoft.com</code>), bet <strong>šī uzminēšana ir rezerves variants</strong> — ja jūsu tenant izmanto pielāgotu domēnu (nevis <code>.onmicrosoft.com</code>), aizpildiet lauku manuāli.</p>
+<h3 id="82-manuāla-nomnieka-id-aizpildīšana">8.2 Manuāla nomnieka ID aizpildīšana</h3>
+<p>Pieņemamās vērtības:</p>
+<ul>
+<li>Tenant GUID: <code>xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx</code></li>
+<li>Tenant domēns: <code>contoso.onmicrosoft.com</code></li>
+<li>Pielāgots domēns: <code>contoso.com</code> (ja konfigurēts Azure AD)</li>
+</ul>
+<hr>
+<h2 id="9-bieżākās-kļūdas">9. Bieżākās kļūdas</h2>
+<table>
+<thead>
+<tr>
+<th>Kļūda</th>
+<th>Iemesls</th>
+<th>Risinājums</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HTTP 401 &quot;Unsupported app only token&quot;</td>
+<td>Atļaujas uzstādītas kā <strong>Delegated</strong></td>
+<td>Mainīt uz <strong>Application</strong> + piešķirt admin consent</td>
+</tr>
+<tr>
+<td>HTTP 401 pēc atļauju pievienošanas</td>
+<td>OAuth2 tokens kešots līdz 60 min</td>
+<td>Atvērt <strong>jaunu Dynamics 365 Business Central sesiju</strong></td>
+</tr>
+<tr>
+<td>&quot;Client Secret has expired&quot;</td>
+<td>Secret termiņš beidzies</td>
+<td>Izveidot jaunu secret Azure AD, atjaunināt Dynamics 365 Business Central</td>
+</tr>
+<tr>
+<td>&quot;Azure AD Tenant ID could not be determined&quot;</td>
+<td>OnPrem NavUserPassword</td>
+<td>Aizpildīt lauku &quot;Azure AD Tenant ID&quot;</td>
+</tr>
+<tr>
+<td>&quot;User not found&quot; / 404 OneDrive</td>
+<td>E-pasts nepareizs vai OneDrive nav aktivizēts</td>
+<td>Pārbaudīt UPN, pieslēgties ar kontu OneDrive</td>
+</tr>
+<tr>
+<td>SharePoint mājaslapa 404</td>
+<td>Vietne neeksistē</td>
+<td>IT admins jāizveido vietne iepriekš</td>
+</tr>
+<tr>
+<td>HttpClient izsaukums neizdodas bez kļūdas</td>
+<td>Paplašinājumam nav atļauts HttpClient</td>
+<td>Extension Management → <strong>Allow HttpClient Requests</strong> = Yes</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="10-ātrs-pārbaudes-algoritms-testconnection">10. Ātrs pārbaudes algoritms (TestConnection)</h2>
+<p>Savienojuma lapā <strong>SharePoint Connection</strong> ir pieejama poga <strong>Test Connection</strong>. Tā veic 5 soļus:</p>
+<ol>
+<li>Iegūst OAuth2 tokenu (pārbauda Client ID + Secret).</li>
+<li>Pārbauda, vai tokens ir derīgs Graph API (<code>GET /organization</code>).</li>
+<li>Pārbauda Graph API atļaujas (<code>GET /sites/root</code>).</li>
+<li>Atrisina diskdziņa URL (atrod SharePoint vietni / OneDrive lietotāju).</li>
+<li>Pārbauda, vai mērķa mape eksistē (informatīvi — mape tiks izveidota automātiski).</li>
+</ol>
+<hr>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://dev.azure.com/elva-bc-projects/POSLink/_git/POSLink-Help?path=lv-LV/articles/poslink/onedrive.md&amp;version=GBmaster&amp;line=1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            © ELVA BALTIC
+            
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>
